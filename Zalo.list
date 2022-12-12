@@ -1,4 +1,5 @@
 # Zalo Flitering
+host, zalo, Zalo
 host, setting.api.zaloapp.com, Zalo
 host, tapi.api.zaloapp.com, Zalo
 host, stickers.zaloapp.com, Zalo
