@@ -20,6 +20,7 @@ host, bitcoin-blockbook.twnodes.com, TrustWallet
 host, litecoin-blockbook.twnodes.com, TrustWallet
 host, us-doge2.twnodes.com, TrustWallet
 host, dogecoin.atomicwallet.io, TrustWallet
+host, blockbook.ltc.zelcore.io, TrustWallet
 host, image.blockchain.news, TrustWallet
 host-suffix, ninerealms.com, TrustWallet
 host-suffix, twnodes.com, TrustWallet
