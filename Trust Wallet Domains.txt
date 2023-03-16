@@ -1,0 +1,26 @@
+# TrustWallet Domains
+
+host, analytics.trustwallet.com, TrustWallet
+host, app-analytics.trustwallet.com, TrustWallet
+host, assets-cdn.trustwallet.com, TrustWallet
+host, api.trustwallet.com, TrustWallet
+host, market.trustwallet.com, TrustWallet
+host, community.trustwallet.com, TrustWallet
+host, relay.walletconnect.com, TrustWallet
+host-suffix, trustwallet.com, TrustWallet
+host-suffix, walletconnect.com, TrustWallet
+
+# Other associated domains
+
+host, midgard.ninerealms.com, TrustWallet
+host, thornode.ninerealms.com, TrustWallet
+host, eth-mainnet.nodereal.io, TrustWallet
+host, classic.twnodes.com, TrustWallet
+host, bitcoin-blockbook.twnodes.com, TrustWallet
+host, litecoin-blockbook.twnodes.com, TrustWallet
+host, us-doge2.twnodes.com, TrustWallet
+host, dogecoin.atomicwallet.io, TrustWallet
+host, image.blockchain.news, TrustWallet
+host-suffix, ninerealms.com, TrustWallet
+host-suffix, twnodes.com, TrustWallet
+host-suffix, atomicwallet.io, TrustWallet
