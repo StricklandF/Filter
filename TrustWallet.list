@@ -9,6 +9,8 @@ host, community.trustwallet.com, TrustWallet
 host, relay.walletconnect.com, TrustWallet
 host-suffix, trustwallet.com, TrustWallet
 host-suffix, walletconnect.com, TrustWallet
+host-suffix, walletconnect.org, TrustWallet
+host-suffix, walletlink.org, TrustWallet
 
 # Other associated domains
 
