@@ -1,0 +1,17 @@
+# MEXC 分流
+
+host, mxc-ios-app-logs-default.ap-southeast-1.log.aliyuncs.com, MEXC
+host, m.mexc.com, MEXC
+host, wbs.mexc.com, MEXC
+host, futures.mexc.com, MEXC
+host, jpush.mexc.com, MEXC
+host, www.365huo.xyz, MEXC
+host, www.flytogarden.com, MEXC
+host, wbs.flytogarden.com, MEXC
+host, futures.flytogarden.com, MEXC
+host, www.mexcsensors.com, MEXC
+host, ab.mexcsensors.com, MEXC
+host-suffix, mexc.com, MEXC
+host-suffix, mexcsensors.com, MEXC
+host-suffix, flytogarden.com, MEXC
+host-suffix, 365huo.xyz, MEXC
