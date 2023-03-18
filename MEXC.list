@@ -1,6 +1,7 @@
 # MEXC 分流
 
 host, mxc-ios-app-logs-default.ap-southeast-1.log.aliyuncs.com, MEXC
+host, s3-app-release.s3.ap-northeast-1.amazonaws.com, MEXC
 host, m.mexc.com, MEXC
 host, wbs.mexc.com, MEXC
 host, futures.mexc.com, MEXC
