@@ -1,0 +1,7 @@
+# ChatGPT 分流
+
+host-suffix, openai.com, OpenAI
+host-suffix, ai.com, OpenAI
+host-suffix, openaiapi-site.azureedge.net, OpenAI
+host-suffix, identrust.com, OpenAI
+host-suffix, auth0.com, OpenAI
