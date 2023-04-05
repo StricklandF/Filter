@@ -1,0 +1,11 @@
+# WebMoney 分流
+
+host, api.web.money, WebMoney
+host, api4mini.webmoney.ru, WebMoney
+host, news.wmtransfer.com, WebMoney
+host, analytics.webmoney.ru, WebMoney
+host, files.web.money, WebMoney
+host, mini.web.money, WebMoney
+host-suffix, web.money, WebMoney
+host-suffix, webmoney.ru, WebMoney
+host-suffix, wmtransfer.com, WebMoney
