@@ -1,0 +1,10 @@
+# Wise 分流
+
+host, loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com, Wise
+host, wise.com, Wise
+host, api.wise.com, Wise
+host, api.authy.com, Wise
+host, api.mixpanel.com, Wise
+host-suffix, wise.com, Wise
+host-suffix, mixpanel.com, Wise
+host-suffix, transferwise.com, Wise
