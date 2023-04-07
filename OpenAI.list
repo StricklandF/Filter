@@ -1,7 +1,12 @@
-# ChatGPT 分流
+# OpenAI 分流
 
 host-suffix, openai.com, OpenAI
 host-suffix, ai.com, OpenAI
 host-suffix, openaiapi-site.azureedge.net, OpenAI
 host-suffix, identrust.com, OpenAI
 host-suffix, auth0.com, OpenAI
+host-suffix, openaiapi-site.azureedge.net, OpenAI
+host-suffix, openaicom.imgix.net, OpenAI
+host-suffix, openaicomproductionae4b.blob.core.windows.net, OpenAI
+host-suffix, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, OpenAI
+host-suffix, openaicomproductionae4b.blob.core.windows.net, OpenAI
