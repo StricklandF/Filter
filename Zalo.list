@@ -33,6 +33,7 @@ host-suffix, zdn.vn, Zalo
 host-suffix, zapps.vn, Zalo
 host-suffix, zmdcdn.me, Zalo
 host-suffix, zalo.me, Zalo
+host-suffix, zalopay.vn, Zalo
 user-agent, zalo*, Zalo
 ip-cidr, 120.138.69.0/24, Zalo
 ip-cidr, 120.138.74.172/24, Zalo
