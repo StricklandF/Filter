@@ -1,0 +1,12 @@
+# StandardChartered Filter
+
+host, www.sc.com, StandardChartered
+host, retail.sc.com, StandardChartered
+host, svc2.sc.com, StandardChartered
+host, av.sc.com, StandardChartered
+host, standchartbank.tt.omtrdc.net, StandardChartered
+host, standchartbank.sc.omtrdc.net, StandardChartered
+host, mczj830vrv006rwkhnsxmmyvyh2m.device.marketingcloudapis.com, StandardChartered
+host, launches.appsflyer.com, StandardChartered
+host, dpm.demdex.net, StandardChartered
+host-suffix, sc.com, StandardChartered
