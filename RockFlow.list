@@ -1,0 +1,17 @@
+# RockFlow
+
+host, api.rockflow.ai, RockFlow
+host, feed.rockflow.ai, RockFlow
+host, logsapi.rockflow.ai, RockFlow
+host, mobile.rockflow.ai, RockFlow
+host, sensor-events.rockflow.ai, RockFlow
+host, static.zdassets.com, RockFlow
+host, rockflow.zendesk.com, RockFlow
+host, avatar-cdn.rockflow.tech, RockFlow
+host, web-upload-cdn-online.rockflow.tech, RockFlow
+host, web-poster-cdn-online.rockflow.tech, RockFlow
+host-suffix, rockflow.ai, RockFlow
+host-suffix, rockflow.tech, RockFlow
+
+;host, api.checkout.com, RockFlow
+;host, api.smooch.io, RockFlow
