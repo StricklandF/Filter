@@ -6,7 +6,10 @@ host, sc.yxzq.com, uSmart
 host, m.yxzq.com, uSmart
 host, web-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
 host, web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
+host, jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
 host, jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
+host, hq-prod-news-server-1257884527.file.myqcloud.com, uSmart
+host, license.vod2.myqcloud.com, uSmart
 host-suffix, yxzq.com, uSmart
 host-suffix, usmart.hk, uSmart
 
