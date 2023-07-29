@@ -1,0 +1,19 @@
+# uSMART (HK & SG)
+
+host, hz.yxzq.com, uSmart
+host, jy.yxzq.com, uSmart
+host, sc.yxzq.com, uSmart
+host, m.yxzq.com, uSmart
+host, web-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
+host, web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
+host, jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
+host-suffix, yxzq.com, uSmart
+host-suffix, usmart.hk, uSmart
+
+host, sc.usmartsg.com, uSmart
+host, jy.usmartsg.com, uSmart
+host, usmartglobal.zendesk.com, uSmart
+host-suffix, usmartsg.com, uSmart
+host-suffix, usmart.sg, uSmart
+host-suffix, usmartglobal.com, uSmart
+host-suffix, usmartgroup.com, uSmart
