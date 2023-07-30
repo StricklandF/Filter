@@ -1,0 +1,8 @@
+# BOCHK
+
+host, mb.bochk.com, BOCHK
+host, mba.bochk.com, BOCHK
+host, fio.bochk.com, BOCHK
+host, bochk01.etnet.com.hk, BOCHK
+host, bochk02.etnet.com.hk, BOCHK
+host-suffix, bochk.com, BOCHK
