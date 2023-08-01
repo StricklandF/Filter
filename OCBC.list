@@ -1,0 +1,18 @@
+# OCBC
+
+host, www.ocbc.com, OCBC
+host, internet.ocbc.com, OCBC
+host, mb.bff.ocbc.com, OCBC
+host, pafms.ocbc.com, OCBC
+host, mb.bff.ocbc.com, OCBC
+host, appd.ocbc.com, OCBC
+host, ocbc.au1.qualtrics.com, OCBC
+host, au1.qualtrics.com, OCBC
+host, survey.qualtrics.com, OCBC
+host, zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com, OCBC
+host, overseachinesebankingcorporationlimited.sc.omtrdc.net, OCBC
+host, overseachinesebankin.tt.omtrdc.net, OCBC
+host, ocbc.demdex.net, OCBC
+host, ocbc.data.adobedc.net, OCBC
+host, assets.adobedtm.com, OCBC
+host-suffix, ocbc.com, OCBC
