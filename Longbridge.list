@@ -10,6 +10,8 @@ host, tts.lbkrs.com, Longbridge
 host, cdn-support.lbkrs.com, Longbridge
 host, vcdn.lbkrs.com, Longbridge
 host, quote.lbkrs.com, Longbridge
+host, static.lbkrs.com, Longbridge
+host, assets.lbkrs.com, Longbridge
 host, event-tracking.lbkrs.com, Longbridge
 host, ping.longbridge.global, Longbridge
 host-suffix, longbridge.global, Longbridge
