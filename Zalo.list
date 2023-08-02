@@ -1,4 +1,5 @@
-# Zalo Flitering
+# Zalo
+
 host, zalo, Zalo
 host, setting.api.zaloapp.com, Zalo
 host, tapi.api.zaloapp.com, Zalo
@@ -27,6 +28,7 @@ host, zalo-api.zadn.vn, Zalo
 host, qr.talk.zdn.vn, Zalo
 host, srv.mp3.zing.vn, Zalo
 host, mp3.zing.vn, Zalo
+host, zfeed-video-mcloud-whch-s12-te-vnso-tt-3.zadn.vn, Zalo
 host-suffix, zaloapp.com, Zalo
 host-suffix, zadn.vn, Zalo
 host-suffix, zdn.vn, Zalo
