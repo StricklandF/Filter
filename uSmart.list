@@ -18,7 +18,10 @@ host-suffix, usmart.hk, uSmart
 
 host, sc.usmartsg.com, uSmart
 host, jy.usmartsg.com, uSmart
+host, hz.usmartsg.com, uSmart
+host, m.usmartsg.com, uSmart
 host, usmartglobal.zendesk.com, uSmart
+host, jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com, uSmart
 host-suffix, usmartsg.com, uSmart
 host-suffix, usmart.sg, uSmart
 host-suffix, usmartglobal.com, uSmart
