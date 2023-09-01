@@ -12,6 +12,7 @@ host, portal.grab.com, Grab
 host, mof.moca.vn, Grab
 host, asia.pool.ntp.org, Grab
 host, pool.ntp.org, Grab
+host, ocra-grab.api.sinch.com, Grab
 host-suffix, grab.com, Grab
 host-suffix, grabtaxi.com, Grab
 
