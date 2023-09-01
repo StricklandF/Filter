@@ -10,6 +10,7 @@ host, rockflow.zendesk.com, RockFlow
 host, avatar-cdn.rockflow.tech, RockFlow
 host, web-upload-cdn-online.rockflow.tech, RockFlow
 host, web-poster-cdn-online.rockflow.tech, RockFlow
+host, rockflow-shared-upload.oss-accelerate.aliyuncs.com, RockFlow
 host-suffix, rockflow.ai, RockFlow
 host-suffix, rockflow.tech, RockFlow
 
