@@ -12,8 +12,10 @@ host, vcdn.lbkrs.com, Longbridge
 host, quote.lbkrs.com, Longbridge
 host, static.lbkrs.com, Longbridge
 host, assets.lbkrs.com, Longbridge
+host, imageproxy.lbkrs.com, Longbridge
 host, event-tracking.lbkrs.com, Longbridge
 host, ping.longbridge.global, Longbridge
+host, quote.lbkrs.com-test, Longbridge
 host-suffix, longbridge.global, Longbridge
 host-suffix, lbkrs.com, Longbridge
 host-suffix, longbridge.hk, Longbridge
