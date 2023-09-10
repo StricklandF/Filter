@@ -18,7 +18,9 @@ host, open-ai-connect.skype.com, Skype
 host, apps.skypeassets.com, Skype
 host, static-asm.secure.skypeassets.com, Skype
 host, azscus1-client-s.gateway.messenger.live.com, Skype
+host, prod.registrar.skype.com, Skype
+host, we.prod.registrar.skype.com, Skype
 host-suffix, skype.com, Skype
 host-suffix, skypeassets.com, Skype
 host-suffix, gateway.messenger.live.com, Skype
-host-suffix, prod.registrar.skype.com, Skype
+host-suffix, registrar.skype.com, Skype
