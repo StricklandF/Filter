@@ -13,6 +13,10 @@ host, getpage.api.zaloapp.com, Zalo
 host, calendar.api.zaloapp.com, Zalo
 host, discovery.api.zaloapp.com, Zalo
 host, apns-failover.zaloapp.com, Zalo
+host, log.api.zaloapp.com, Zalo
+host, broadcast.api.zaloapp.com, Zalo
+host, register.zaloapp.com, Zalo
+host, centralized.zaloapp.com, Zalo
 host, res-zalo.zadn.vn, Zalo
 host, zingnews.vn, Zalo
 host, news.zing.vn, Zalo
