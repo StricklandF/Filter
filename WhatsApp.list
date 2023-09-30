@@ -1,9 +1,11 @@
 # WhatsApp
 
 host, g.whatsapp.net, WhatsApp
+host, dit.whatsapp.net, WhatsApp
 host, scontent.whatsapp.net, WhatsApp
 host, e12.whatsapp.net, WhatsApp
 host, e16.whatsapp.net, WhatsApp
+host, media.fmnl15-1.fna.whatsapp.net, WhatsApp
 host, media-fra5-1.cdn.whatsapp.net, WhatsApp
 host, graph.facebook.com, WhatsApp
 host-suffix, bintray.com, WhatsApp
