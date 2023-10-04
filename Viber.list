@@ -1,0 +1,25 @@
+# Viber
+
+
+host, account.viber.com, Viber
+host, content.cdn.viber.com, Viber
+host, media.cdn.viber.com, Viber
+host, explore.api.viber.com, Viber
+host, core.viber.com, Viber
+host, market.viber.com, Viber
+host, dl-media.viber.com, Viber
+host, aloha46.viber.com, Viber
+host, pg.cdn.viber.com, Viber
+host, s-imp.rmp.rakuten.com, Viber
+host, s-bid.rmp.rakuten.com, Viber
+host, mcdp-nydc1.outbrain.com, Viber
+host, images.outbrainimg.com, Viber
+host, log.outbrainimg.com, Viber
+host, venetia.iad.appboy.com, Viber
+host, api.snapkit.com, Viber
+host-suffix, viber.com, Viber
+host-suffix, outbrainimg.com, Viber
+host-suffix, outbrain.com, Viber
+
+ip-cidr, 3.101.175.0/24, Viber
+ip-cidr, 52.221.189.0/24, Viber
