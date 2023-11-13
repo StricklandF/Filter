@@ -2,6 +2,9 @@
 
 
 host, account.viber.com, Viber
+host, sm-content.viber.com, Viber
+host, data-event-proxy.viber.com, Viber
+host, explore-screen.cdn.viber.com, Viber
 host, content.cdn.viber.com, Viber
 host, media.cdn.viber.com, Viber
 host, explore.api.viber.com, Viber
