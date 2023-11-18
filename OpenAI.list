@@ -1,4 +1,4 @@
-# OpenAI 分流
+# OpenAI (ChatGPT) - 2023.11.18
 
 host, chat.openai.com, OpenAI
 host, cdn.openai.com, OpenAI
@@ -11,5 +11,19 @@ host-suffix, openaiapi-site.azureedge.net, OpenAI
 host-suffix, openaicom.imgix.net, OpenAI
 host-suffix, openaicomproductionae4b.blob.core.windows.net, OpenAI
 host-suffix, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, OpenAI
+host-keyword,openai, OpenAI
 
-;host, challenges.cloudflare.com, OpenAI
+# Other associated domains
+host-suffix, challenges.cloudflare.com, OpenAI
+host-suffix, client-api.arkoselabs.com, OpenAI
+host-suffix, events.statsigapi.net, OpenAI
+host-suffix, featuregates.org, OpenAI
+host-suffix, oaiusercontent.com, OpenAI
+host-suffix, oaistatic.com, OpenAI
+host-suffix, segment.io, OpenAI
+host-suffix, intercom.io, OpenAI
+host-suffix, intercomcdn.com, OpenAI
+host-suffix, poe.com, OpenAI
+host-suffix, sentry.io, OpenAI
+
+;host-suffix, launchdarkly.com, OpenAI
