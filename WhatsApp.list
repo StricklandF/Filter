@@ -1,4 +1,4 @@
-# WhatsApp - 2023.11.18
+# WhatsApp - 2023.11.22
 
 host, g.whatsapp.net, WhatsApp
 host, dit.whatsapp.net, WhatsApp
@@ -6,6 +6,7 @@ host, static.whatsapp.net, WhatsApp
 host, scontent.whatsapp.net, WhatsApp
 host, pps.whatsapp.net, WhatsApp
 host, e2.whatsapp.net, WhatsApp
+host, e3.whatsapp.net, WhatsApp
 host, e4.whatsapp.net, WhatsApp
 host, e12.whatsapp.net, WhatsApp
 host, e16.whatsapp.net, WhatsApp
