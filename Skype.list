@@ -1,10 +1,11 @@
-# Skype 域名分流（置于 Microsoft 分流之上）
+# Skype 域名分流 (置于 Microsoft 分流之上) - 2023.11.29
 
 host, api.skype.com, Skype
 host, api.aps.skype.com, Skype
 host, api.flightproxy.skype.com, Skype
 host, edge.skype.com, Skype
 host, trouter-azsc-ukwe-0-b.trouter.skype.com, Skype
+host, pub-csm-euno-01-t.trouter.skype.com, Skype
 host, mrrcountries.cdn.skype.com, Skype
 host, api.promotions.skype.com, Skype
 host, msgsearch.skype.com, Skype
