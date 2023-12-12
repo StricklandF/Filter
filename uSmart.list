@@ -29,3 +29,4 @@ host-suffix, usmartsg.com, uSmart
 host-suffix, usmart.sg, uSmart
 host-suffix, usmartglobal.com, uSmart
 host-suffix, usmartgroup.com, uSmart
+ip-cidr, 47.107.247.183/32, uSmart
