@@ -1,4 +1,4 @@
-# BOCHK
+# BOCHK - 2023.12.15
 
 host, www.bochk.com, BOCHK
 host, mb.bochk.com, BOCHK
@@ -10,5 +10,10 @@ host, ewa.bochk.com, BOCHK
 host, mobile.boccc.com.hk, BOCHK
 host, bochk01.etnet.com.hk, BOCHK
 host, bochk02.etnet.com.hk, BOCHK
+host, bochkapp01.etnet.com.hk, BOCHK
+host, bochk.yundzh.com, BOCHK
+host, saaszhhk.yundzh.com, BOCHK
+host, mds1a.trkd-hs.com, BOCHK
 host-suffix, bochk.com, BOCHK
 host-suffix, boccc.com.hk, BOCHK
+host-keyword, bochk, BOCHK
