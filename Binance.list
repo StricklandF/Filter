@@ -4,7 +4,7 @@ host, www.binance.com, Binance
 host, api.saasexch.cc, Binance
 host, report.binance.im, Binance
 host, www.binance.info, Binance
-host-suffix,  binancecnt.com, Binance
+host-suffix, binancecnt.com, Binance
 host, sdstream.yingwangtech.net, Binance
 host, nbstream.yingwangtech.net, Binance
 host, stream.yingwangtech.net, Binance
