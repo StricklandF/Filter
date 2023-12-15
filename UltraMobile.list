@@ -1,4 +1,4 @@
-# Ultra Mobile - 2023.11.13
+# Ultra Mobile - 2023.12.15
 
 host, www.ultramobile.com, UltraMobile
 host, my.ultramobile.com, UltraMobile
@@ -16,6 +16,7 @@ host, clientstream.launchdarkly.com, UltraMobile
 host, mobile.launchdarkly.com, UltraMobile
 host, cdn1.friendbuy.com, UltraMobile
 host, geolocation.onetrust.com, UltraMobile
+host, eas3.msg.t-mobile.com, UltraMobile
 
 host-suffix, ultramobile.com, UltraMobile
 host-suffix, livechatinc.com, UltraMobile
