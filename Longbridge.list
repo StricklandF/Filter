@@ -29,3 +29,5 @@ host, ar5xmqao2l.execute-api.ap-east-1.amazonaws.com, Longbridge
 host, kinesis.ap-east-1.amazonaws.com, Longbridge
 host, apmplus.volces.com, Longbridge
 host, api.geetest.com, Longbridge
+host, static.geetest.com, Longbridge
+host-suffix, geetest.com, Longbridge
