@@ -1,4 +1,4 @@
-# Longbridge
+# Longbridge - 2023.12.25
 
 host, ws.lbkrs.com, Longbridge
 host, geotest.lbkrs.com, Longbridge
@@ -6,6 +6,7 @@ host, api.lbkrs.com, Longbridge
 host, ping.lbkrs.com, Longbridge
 host, m.lbkrs.com, Longbridge
 host, pub.lbkrs.com, Longbridge
+host, app.lbkrs.com, Longbridge
 host, tts.lbkrs.com, Longbridge
 host, cdn-support.lbkrs.com, Longbridge
 host, vcdn.lbkrs.com, Longbridge
@@ -15,9 +16,11 @@ host, assets.lbkrs.com, Longbridge
 host, imageproxy.lbkrs.com, Longbridge
 host, event-tracking.lbkrs.com, Longbridge
 host, ping.longbridge.global, Longbridge
+host, api.longbridge.global, Longbridge
 host, quote.lbkrs.com-test, Longbridge
 host-suffix, longbridge.global, Longbridge
 host-suffix, lbkrs.com, Longbridge
+host-suffix, longbridgeapp.com, Longbridge
 host-suffix, longbridge.hk, Longbridge
 
 # Associated Domains
@@ -25,3 +28,4 @@ host, cognito-identity.ap-southeast-1.amazonaws.com, Longbridge
 host, ar5xmqao2l.execute-api.ap-east-1.amazonaws.com, Longbridge
 host, kinesis.ap-east-1.amazonaws.com, Longbridge
 host, apmplus.volces.com, Longbridge
+host, api.geetest.com, Longbridge
