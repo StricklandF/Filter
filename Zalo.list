@@ -1,4 +1,4 @@
-# Zalo
+# Zalo - 2023.12.25
 
 host, zalo, Zalo
 host, setting.api.zaloapp.com, Zalo
@@ -33,6 +33,10 @@ host, qr.talk.zdn.vn, Zalo
 host, srv.mp3.zing.vn, Zalo
 host, mp3.zing.vn, Zalo
 host, zfeed-video-mcloud-whch-s12-te-vnso-tt-3.zadn.vn, Zalo
+host, id.zalo.me, Zalo
+host, help.zalo.me, Zalo
+host, zcld.chat.zalo.me, Zalo
+host, ads-platform.zalo.me, Zalo
 host-suffix, zaloapp.com, Zalo
 host-suffix, zadn.vn, Zalo
 host-suffix, zdn.vn, Zalo
