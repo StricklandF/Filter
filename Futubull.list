@@ -1,0 +1,47 @@
+# Futubull - 2024.01.04
+
+host, www.futuhk.com, Futubull
+host, api.futunn.com, Futubull
+host, avatar.futunn.com, Futubull
+host, static.futunn.com, Futubull
+host, dedog-report-sec.futunn.com, Futubull
+host, dedog-server-sec.futunn.com, Futubull
+host, dedog-server.futunn.com, Futubull
+host, stock-resource.futunn.com, Futubull
+host, cdnquote.futunn.com, Futubull
+host, collect.futunn.com, Futubull
+host, report.futunn.com, Futubull
+host, dedog-report.futunn.com, Futubull
+host, fegostatic.futunn.com, Futubull
+host, foss-nn-hk.futunn.com, Futubull
+host, pubimg.futunn.com, Futubull
+host, m-match.futunn.com, Futubull
+host, sdreport.futunn.com, Futubull
+host, offline-q.futunn.com, Futubull
+host, nnqimage.futunn.com, Futubull
+host, sdauth.futunn.com, Futubull
+host, news.futunn.com, Futubull
+host, exchange.futuhn.com, Futubull
+host, funds.futuhn.com, Futubull
+host, sdauth.futuhn.com, Futubull
+host, collect.futuhn.com, Futubull
+host, risk.futuhn.com, Futubull
+host, acctransfer.futuhn.com, Futubull
+host, collect.futufin.com, Futubull
+host, commonfthk.futufin.com, Futubull
+host, commonfthk.futufin.com, Futubull
+host, sdauth.futufin.com, Futubull
+host, fund-upgrowth.futufin.com, Futubull
+host, fund-upgrowth.futuhk2.com, Futubull
+host, sdauth.futuhk2.com, Futubull
+host, promote-image-1251001049.cos.accelerate.myqcloud.com, Futubull
+host, promote-image-hk-1251001049.cos.accelerate.myqcloud.com, Futubull
+host, shortconn.im.qcloud.com, Futubull
+ip-cidr, 159.75.142.235/32, Futubull
+ip-cidr, 42.193.128.62/32, Futubull
+
+host-suffix, futunn.com, Futubull
+host-suffix, futuhn.com, Futubull
+host-suffix, futufin.com, Futubull
+host-suffix, futuhk.com, Futubull
+host-suffix, futuhk2.com, Futubull
