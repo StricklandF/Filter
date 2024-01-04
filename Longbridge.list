@@ -1,4 +1,4 @@
-# Longbridge - 2023.12.25
+# Longbridge - 2024.01.04
 
 host, ws.lbkrs.com, Longbridge
 host, geotest.lbkrs.com, Longbridge
@@ -24,6 +24,7 @@ host-suffix, longbridgeapp.com, Longbridge
 host-suffix, longbridge.hk, Longbridge
 
 # Associated Domains
+host, lb-pspl-rawfile.s3.cn-north-1.amazonaws.com.cn, Longbridge
 host, cognito-identity.ap-southeast-1.amazonaws.com, Longbridge
 host, ar5xmqao2l.execute-api.ap-east-1.amazonaws.com, Longbridge
 host, kinesis.ap-east-1.amazonaws.com, Longbridge
