@@ -1,4 +1,4 @@
-# WhatsApp - 2023.12.25
+# WhatsApp - 2024.01.11
 
 host, g.whatsapp.net, WhatsApp
 host, dit.whatsapp.net, WhatsApp
@@ -29,6 +29,7 @@ host, media-cph2-1.cdn.whatsapp.net, WhatsApp
 host, media-nrt1-1.cdn.whatsapp.net, WhatsApp
 host, media-ams4-1.cdn.whatsapp.net, WhatsApp
 host, media-mxp2-1.cdn.whatsapp.net, WhatsApp
+host, media-lhr6-2.cdn.whatsapp.net, WhatsApp
 host, graph.whatsapp.com, WhatsApp
 host, graph.facebook.com, WhatsApp
 host-suffix, bintray.com, WhatsApp
