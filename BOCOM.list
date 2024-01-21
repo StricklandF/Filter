@@ -1,0 +1,22 @@
+# Bank of Communications - 2024.01.21
+
+host, mobile.bankcomm.cn, BOCOM
+host, monitor.bankcomm.cn, BOCOM
+host, download1.bankcomm.com, BOCOM
+host, creditcardapp.bankcomm.com, BOCOM
+host, creditcardapp.bankcomm.cn, BOCOM
+host, creditcard.bankcomm.com, BOCOM
+host, track.bankcomm.com, BOCOM
+host, mbank.95559.com.cn, BOCOM
+host-suffix, 95559.com.cn, BOCOM
+host-suffix, 95559.sh.cn, BOCOM
+host-suffix, bankcomm.cn, BOCOM
+host-suffix, bankcomm.com, BOCOM
+host-suffix, bankcomm.com.au, BOCOM
+host-suffix, bankcomm.com.mo, BOCOM
+host-suffix, bankcomm.com.tw, BOCOM
+
+;host, cmyd-10-88.getui.com, BOCOM
+;host, c-hzgt2.getui.com, BOCOM
+;host, cmyd-10-128.getui.com, BOCOM
+;host, sdk.open.talk.getui.com, BOCOM
