@@ -1,7 +1,8 @@
-# HSBC HK - 2024.01.11
+# HSBC HK - 2024.01.25
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
+host, www.issthk.hsbc.com.hk, HSBCHK
 host, cdntm.hsbc.com.hk, HSBCHK
 host, rbwm-api.hsbc.com.hk, HSBCHK
 host, cdnbc-logs.hsbc.com.hk, HSBCHK
@@ -9,6 +10,8 @@ host, cdnbc-wup.hsbc.com.hk, HSBCHK
 host, dco-ao.hsbc.com.hk, HSBCHK
 host, www.eticketing.hsbc.com.hk, HSBCHK
 host, m.mobilex-static.hsbc.com.hk, HSBCHK
+host, pki.hsbc.com, HSBCHK
+host, pkicrl-internal.it.global.hsbc, HSBCHK
 host, zn1x4bay9t3d099pf-hsbcdigital.siteintercept.qualtrics.com, HSBCHK
 host, h.online-metrix.net, HSBCHK
 host, aa.online-metrix.net, HSBCHK
@@ -19,3 +22,5 @@ host, collect-ap-east-1.tealiumiq.com, HSBCHK
 host, mobile.eum-appdynamics.com, HSBCHK
 
 host-suffix, hsbc.com.hk, HSBCHK
+host-suffix, hsbc.com, HSBCHK
+host-suffix, global.hsbc, HSBCHK
