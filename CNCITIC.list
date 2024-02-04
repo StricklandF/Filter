@@ -1,0 +1,44 @@
+# China Citic Bank - 2024.02.04
+
+host, wap.bank.ecitic.com, CITIC
+host, apms.citicbank.com, CITIC
+host, mgm.citicbank.com, CITIC
+host, imcs.citicbank.com, CITIC
+host, wealthplaza.cfhc.citic, CITIC
+host, apiwealthplaza.cfhc.citic, CITIC
+host, autoload.bank.ecitic.com, CITIC
+host, edata.bank.ecitic.com, CITIC
+host, nppbase.cup.com.cn, CITIC
+host, nppswitch.cup.com.cn, CITIC
+host-suffix, chinaamc.com, CITIC
+host-suffix, citic, CITIC
+host-suffix, citic-prudential.com.cn, CITIC
+host-suffix, citic.com, CITIC
+host-suffix, citicbank.cn, CITIC
+host-suffix, citicbank.com, CITIC
+host-suffix, citicbank.com.cn, CITIC
+host-suffix, citicbank.net, CITIC
+host-suffix, citicbank.net.cn, CITIC
+host-suffix, citicbank.org, CITIC
+host-suffix, citicbank.org.cn, CITIC
+host-suffix, citiccapital.com, CITIC
+host-suffix, citicgroup.com.cn, CITIC
+host-suffix, citiciam.com, CITIC
+host-suffix, citicifh.com, CITIC
+host-suffix, citicprufunds.com.cn, CITIC
+host-suffix, citics.com, CITIC
+host-suffix, citics.com.hk, CITIC
+host-suffix, citicsf.com, CITIC
+host-suffix, clsa.com, CITIC
+host-suffix, cncbinternational.com, CITIC
+host-suffix, csc108.com, CITIC
+host-suffix, csci.hk, CITIC
+host-suffix, ecitic.com, CITIC
+host-suffix, ecitic.net, CITIC
+
+# Associated domains
+host, nppbase.95516.com, CITIC
+host, analytics.95516.com, CITIC
+host, hotpatch.95516.com, CITIC
+host, antifraud.95516.com, CITIC
+host-suffix, 95516.com, CITIC
