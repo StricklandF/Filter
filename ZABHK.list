@@ -1,0 +1,21 @@
+# ZA Bank HK - 2024.02.27
+
+host, www.za.group, ZABHK
+host, bank.za.group, ZABHK
+host, aim-abtesting-sdk.za.group, ZABHK
+host, bankappgw.za.group, ZABHK
+host, zaip-did.za.group, ZABHK
+host, h5.za.group, ZABHK
+host, athena.za.group, ZABHK
+host, offlineapp.za.group, ZABHK
+host, appguard.za.group, ZABHK
+host, cdn.zaticdn.com, ZABHK
+host, alicdn.zaticdn.com, ZABHK
+host, appmon-prd.zajourney.com, ZABHK
+host, integrate-appgw.zajourney.com, ZABHK
+host, bank-stock.zafinsvc.com, ZABHK
+
+host-suffix, za.group, ZABHK
+host-suffix, zaticdn.com, ZABHK
+host-suffix, zajourney.com, ZABHK
+host-suffix, zafinsvc.com, ZABHK
