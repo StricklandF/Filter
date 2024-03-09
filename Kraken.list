@@ -5,9 +5,10 @@ host, iapi.kraken.com, Kraken
 host, ws.kraken.com, Kraken
 host, ws-auth.kraken.com, Kraken
 host, ws-frontend.kraken.com, Kraken
-host, assets.kraken.com
+host, assets.kraken.com, Kraken
 host, futures.kraken.com, Kraken
 host-suffix, kraken.com, Kraken
+host-keyword, kraken, Kraken
 
 # Possible associated domains
 host, o438986.ingest.sentry.io, Kraken
