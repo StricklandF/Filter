@@ -1,0 +1,15 @@
+# Kraken - 2024.03.09
+
+host, api.kraken.com, Kraken
+host, iapi.kraken.com, Kraken
+host, ws.kraken.com, Kraken
+host, ws-auth.kraken.com, Kraken
+host, ws-frontend.kraken.com, Kraken
+host, assets.kraken.com
+host, futures.kraken.com, Kraken
+host-suffix, kraken.com, Kraken
+
+# Possible associated domains
+host, o438986.ingest.sentry.io, Kraken
+host, api.segment.io, Kraken
+host, api.sardine.ai, Kraken
