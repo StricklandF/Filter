@@ -12,5 +12,6 @@ host-keyword, kraken, Kraken
 
 # Possible associated domains
 host, o438986.ingest.sentry.io, Kraken
+host, o552333.ingest.sentry.io, Kraken
 host, api.segment.io, Kraken
 host, api.sardine.ai, Kraken
