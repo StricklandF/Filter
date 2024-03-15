@@ -1,7 +1,8 @@
-# Binance -2023.12.16
+# Binance - 2024.03.15
 
 host, www.binance.com, Binance
 host, api.saasexch.cc, Binance
+host, api.saasexch.io, Binance
 host, report.binance.im, Binance
 host, www.binance.info, Binance
 host-suffix, binancecnt.com, Binance
@@ -47,4 +48,5 @@ host-suffix, bnbstatic.com, Binance
 host-suffix, bnbzh.ac, Binance
 host-suffix, bntrace.com, Binance
 host-suffix, saasexch.cc, Binance
+host-suffix, saasexch.io, Binance
 host-suffix, saasexch.com, Binance
