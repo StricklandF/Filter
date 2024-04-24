@@ -1,4 +1,4 @@
-# Binance - 2024.03.15
+# Binance - 2024.04.24
 
 host, www.binance.com, Binance
 host, api.saasexch.cc, Binance
@@ -14,6 +14,7 @@ host, fstream.yingwangtech.net, Binance
 host, www.yingwangtech.net, Binance
 host, www.yingwangtech.mobi, Binance
 host, www.yingwangtech.club, Binance
+host, www.yingwangtech.cc, Binance
 
 host-suffix, appsflayer.com, Binance
 host-suffix, binance.cc, Binance
