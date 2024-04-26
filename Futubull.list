@@ -1,7 +1,8 @@
-# Futubull - 2024.01.04
+## Futubull - 2024.04.26
 
 host, www.futuhk.com, Futubull
 host, api.futunn.com, Futubull
+host, api5.futunn.com, Futubull
 host, avatar.futunn.com, Futubull
 host, static.futunn.com, Futubull
 host, dedog-report-sec.futunn.com, Futubull
@@ -21,6 +22,10 @@ host, offline-q.futunn.com, Futubull
 host, nnqimage.futunn.com, Futubull
 host, sdauth.futunn.com, Futubull
 host, news.futunn.com, Futubull
+host, foss1.futunn.com, Futubull
+host, auth.futunn.com, Futubull
+host, fego-offline.futunn.com, Futubull
+host, update.futunn.com, Futubull
 host, exchange.futuhn.com, Futubull
 host, funds.futuhn.com, Futubull
 host, sdauth.futuhn.com, Futubull
@@ -35,9 +40,28 @@ host, sdauth.futufin.com, Futubull
 host, fund-upgrowth.futufin.com, Futubull
 host, fund-upgrowth.futuhk2.com, Futubull
 host, sdauth.futuhk2.com, Futubull
+host, shortconn.im.qcloud.com, Futubull
 host, promote-image-1251001049.cos.accelerate.myqcloud.com, Futubull
 host, promote-image-hk-1251001049.cos.accelerate.myqcloud.com, Futubull
-host, shortconn.im.qcloud.com, Futubull
+
+# SG IP
+ip-cidr, 43.132.12.114/32, Futubull
+ip-cidr, 43.153.233.212/32, Futubull
+# JP IP
+ip-cidr, 43.128.254.50/32, Futubull
+ip-cidr, 124.156.233.21/32, Futubull
+ip-cidr, 124.156.234.231/32, Futubull
+# US IP
+ip-cidr, 170.106.49.68/32, Futubull
+ip-cidr, 170.106.49.111/32, Futubull
+# HK IP
+ip-cidr, 43.132.106.6/32, Futubull
+ip-cidr, 129.226.79.239/32, Futubull
+ip-cidr, 119.28.37.77/32, Futubull
+ip-cidr, 101.32.199.218/32, Futubull
+ip-cidr, 124.156.124.214/32, Futubull
+ip-cidr, 124.156.124.226/32, Futubull
+# Others
 ip-cidr, 159.75.142.235/32, Futubull
 ip-cidr, 42.193.128.62/32, Futubull
 
