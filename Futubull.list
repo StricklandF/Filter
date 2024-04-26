@@ -56,6 +56,7 @@ ip-cidr, 170.106.49.68/32, Futubull
 ip-cidr, 170.106.49.111/32, Futubull
 # HK IP
 ip-cidr, 43.132.106.6/32, Futubull
+ip-cidr, 43.132.107.102/32, Futubull
 ip-cidr, 129.226.79.239/32, Futubull
 ip-cidr, 119.28.37.77/32, Futubull
 ip-cidr, 101.32.199.218/32, Futubull
