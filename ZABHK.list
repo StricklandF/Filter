@@ -1,4 +1,4 @@
-# ZA Bank HK - 2024.02.28
+# ZA Bank HK - 2024.06.01
 
 host, www.za.group, ZABHK
 host, bank.za.group, ZABHK
@@ -20,8 +20,10 @@ host, alicdn.zaticdn.com, ZABHK
 host, appmon-prd.zajourney.com, ZABHK
 host, integrate-appgw.zajourney.com, ZABHK
 host, bank-stock.zafinsvc.com, ZABHK
+host, bank-ivstreg-sit.zaintl.com, ZABHK
 
 host-suffix, za.group, ZABHK
 host-suffix, zaticdn.com, ZABHK
 host-suffix, zajourney.com, ZABHK
 host-suffix, zafinsvc.com, ZABHK
+host-suffix, zaintl.com, ZABHK
