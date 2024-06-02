@@ -7,6 +7,7 @@ host, conf.moomoo.com, Moomoo
 host, auth.moomoo.com, Moomoo
 host, sdauth.moomoo.com, Moomoo
 host, pass.moomoo.com, Moomoo
+host, passport.moomoo.com, Moomoo
 host, update.moomoo.com, Moomoo
 host, j.moomoo.com, Moomoo
 host, cdnquote.moomoo.com, Moomoo
@@ -19,10 +20,10 @@ host, collect.sg.moomoo.com, Moomoo
 host, openaccount.sg.moomoo.com, Moomoo
 host, fund-upgrowth.sg.moomoo.com, Moomoo
 host, foss-mm-us.moomoo.com, Moomoo
+host, dedog-server.moomoo.com, Moomoo
 host, dedog-server-sec.moomoo.com, Moomoo
 host, dedog-report-sec.moomoo.com, Moomoo
 host, industry-chain-img.futunn.com, Moomoo
-host, dedog-server.futunn.com, Moomoo
 host, report.moomoo.com, Moomoo
 host, ussnsimg.moomoo.com, Moomoo
 host, usavatar.moomoo.com, Moomoo
