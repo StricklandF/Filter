@@ -1,0 +1,56 @@
+## Moomoo - 2024.06.02
+
+host, www.moomoo.com, Moomoo
+host, api.moomoo.com, Moomoo
+host, static.moomoo.com, Moomoo
+host, conf.moomoo.com, Moomoo
+host, auth.moomoo.com, Moomoo
+host, sdauth.moomoo.com, Moomoo
+host, pass.moomoo.com, Moomoo
+host, update.moomoo.com, Moomoo
+host, j.moomoo.com, Moomoo
+host, cdnquote.moomoo.com, Moomoo
+host, stock-resource.moomoo.com, Moomoo
+host, emoticon.moomoo.com, Moomoo
+host, fegostatic.moomoo.com, Moomoo
+host, collect.moomoo.com, Moomoo
+host, authority.sg.moomoo.com, Moomoo
+host, collect.sg.moomoo.com, Moomoo
+host, openaccount.sg.moomoo.com, Moomoo
+host, fund-upgrowth.sg.moomoo.com, Moomoo
+host, foss-mm-us.moomoo.com, Moomoo
+host, dedog-server-sec.moomoo.com, Moomoo
+host, dedog-report-sec.moomoo.com, Moomoo
+host, industry-chain-img.futunn.com, Moomoo
+host, dedog-server.futunn.com, Moomoo
+host, report.moomoo.com, Moomoo
+host, ussnsimg.moomoo.com, Moomoo
+host, usavatar.moomoo.com, Moomoo
+host, collect.moomoo.com, Moomoo
+host, qtcard.moomoo.com, Moomoo
+host, usnewsfile.moomoo.com, Moomoo
+host, offline-moo.moomoo.com, Moomoo
+host, shortsgp.im.qcloud.com:9950
+host, promote-image-1251001049.cos.accelerate.myqcloud.com, Moomoo
+host, pubimg-10000538.picsh.myqcloud.com, Moomoo
+host, cdn.futustatic.com, Moomoo
+
+host-suffix, moomoo.com, Moomoo
+host-suffix, sg.moomoo.com, Moomoo
+
+# SG IP
+ip-cidr, 43.134.158.60/32, Moomoo
+ip-cidr, 101.33.43.108/32, Moomoo
+ip-cidr, 101.32.143.93/32, Moomoo
+ip-cidr, 101.32.133.230/32, Moomoo
+# US IP
+ip-cidr, 170.106.62.232/32, Moomoo
+ip-cidr, 49.51.79.237/32, Moomoo
+# HK IP
+ip-cidr, 43.132.138.6/32, Moomoo
+# JP IP
+ip-cidr, 124.156.235.203/32, Moomoo
+
+ip-cidr, 43.135.57.128/32, Moomoo
+ip-cidr, 129.226.2.218/32, Moomoo
+
