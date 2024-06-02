@@ -54,5 +54,6 @@ ip-cidr, 43.135.57.128/32, Moomoo
 # JP IP
 ip-cidr, 124.156.235.203/32, Moomoo
 ip-cidr, 43.153.165.242/32, Moomoo
+ip-cidr, 43.153.191.15/32, Moomoo
 
 ip-cidr, 129.226.2.218/32, Moomoo
