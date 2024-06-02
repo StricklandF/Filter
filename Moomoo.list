@@ -47,10 +47,13 @@ ip-cidr, 101.32.143.93/32, Moomoo
 ip-cidr, 101.32.133.230/32, Moomoo
 # US IP
 ip-cidr, 170.106.62.232/32, Moomoo
+ip-cidr, 170.106.47.242/32, Moomoo
 ip-cidr, 49.51.79.237/32, Moomoo
 # HK IP
 ip-cidr, 43.132.138.6/32, Moomoo
 ip-cidr, 43.135.57.128/32, Moomoo
+ip-cidr, 101.32.70.122/32, Moomoo
+ip-cidr, 129.226.111.106/32, Moomoo
 # JP IP
 ip-cidr, 124.156.235.203/32, Moomoo
 ip-cidr, 43.153.165.242/32, Moomoo
