@@ -38,6 +38,7 @@ host, cdn.futustatic.com, Moomoo
 
 host-suffix, moomoo.com, Moomoo
 host-suffix, sg.moomoo.com, Moomoo
+host-suffix, us.moomoo.com, Moomoo
 
 # SG IP
 ip-cidr, 43.134.158.60/32, Moomoo
