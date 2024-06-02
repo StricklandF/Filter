@@ -1,10 +1,11 @@
-## Futubull - 2024.04.26
+## Futubull - 2024.06.02
 
 host, www.futuhk.com, Futubull
 host, api.futunn.com, Futubull
 host, api5.futunn.com, Futubull
 host, avatar.futunn.com, Futubull
 host, static.futunn.com, Futubull
+host, sdauth.futuhk.com, Futubull
 host, dedog-report-sec.futunn.com, Futubull
 host, dedog-server-sec.futunn.com, Futubull
 host, dedog-server.futunn.com, Futubull
