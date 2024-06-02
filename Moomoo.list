@@ -40,6 +40,8 @@ host-suffix, sg.moomoo.com, Moomoo
 
 # SG IP
 ip-cidr, 43.134.158.60/32, Moomoo
+ip-cidr, 43.134.158.106/32, Moomoo
+ip-cidr, 43.134.159.189/32, Moomoo
 ip-cidr, 101.33.43.108/32, Moomoo
 ip-cidr, 101.32.143.93/32, Moomoo
 ip-cidr, 101.32.133.230/32, Moomoo
@@ -48,9 +50,9 @@ ip-cidr, 170.106.62.232/32, Moomoo
 ip-cidr, 49.51.79.237/32, Moomoo
 # HK IP
 ip-cidr, 43.132.138.6/32, Moomoo
+ip-cidr, 43.135.57.128/32, Moomoo
 # JP IP
 ip-cidr, 124.156.235.203/32, Moomoo
+ip-cidr, 43.153.165.242/32, Moomoo
 
-ip-cidr, 43.135.57.128/32, Moomoo
 ip-cidr, 129.226.2.218/32, Moomoo
-
