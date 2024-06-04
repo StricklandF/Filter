@@ -1,4 +1,4 @@
-# Longbridge - 2024.01.04
+# Longbridge - 2024.06.04
 
 host, ws.lbkrs.com, Longbridge
 host, geotest.lbkrs.com, Longbridge
@@ -18,10 +18,13 @@ host, event-tracking.lbkrs.com, Longbridge
 host, ping.longbridge.global, Longbridge
 host, api.longbridge.global, Longbridge
 host, quote.lbkrs.com-test, Longbridge
-host-suffix, longbridge.global, Longbridge
+host, app.longbridgehk.com, Longbridge
 host-suffix, lbkrs.com, Longbridge
-host-suffix, longbridgeapp.com, Longbridge
 host-suffix, longbridge.hk, Longbridge
+host-suffix, longbridge.sg, Longbridge
+host-suffix, longbridgehk.com, Longbridge
+host-suffix, longbridge.global, Longbridge
+host-suffix, longbridgeapp.com, Longbridge
 
 # Associated Domains
 host, lb-pspl-rawfile.s3.cn-north-1.amazonaws.com.cn, Longbridge
