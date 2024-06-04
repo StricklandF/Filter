@@ -1,11 +1,15 @@
 # Binance - 2024.06.04
 
 host, www.binance.com, Binance
+host, api.binance.com, Binance
+host, fapibak.binance.com, Binance
+host, accounts.binance.com, Binance
 host, themis.binance.com, Binance
 host, api.saasexch.cc, Binance
 host, api.saasexch.io, Binance
 host, report.binance.im, Binance
 host, www.binance.info, Binance
+host, accounts.binance.info, Binance
 host, edge-api.saasexch.com, Binance
 host, stream.binance.info, Binance
 host, fstream.binance.info, Binance
