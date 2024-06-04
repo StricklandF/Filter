@@ -4,6 +4,10 @@ host, www.binance.com, Binance
 host, api.binance.com, Binance
 host, fapibak.binance.com, Binance
 host, accounts.binance.com, Binance
+host, native.binance.com, Binance
+host, stream.binance.com, Binance
+host, dstream.binance.com, Binance
+host, fstream.binance.com, Binance
 host, themis.binance.com, Binance
 host, api.saasexch.cc, Binance
 host, api.saasexch.io, Binance
@@ -20,6 +24,7 @@ host, native.binance.info, Binance
 host, log.bntrace.com, Binance
 host, public.bnbstatic.com, Binance
 host, bin.bnbstatic.com, Binance
+host, www.binancecnt.com, Binance
 host, www.yingwangtech.cloud, Binance
 host, sdstream.yingwangtech.net, Binance
 host, nbstream.yingwangtech.net, Binance
@@ -79,3 +84,5 @@ ip-cidr, 47.107.127.135/32, Binance
 ip-cidr, 52.68.117.1/32, Binance
 ip-cidr, 35.77.148.188/32, Binance
 ip-cidr, 54.150.106.1/32, Binance
+ip-cidr, 13.248.135.87/32, Binance
+ip-cidr, 47.107.32.31/32, Binance
