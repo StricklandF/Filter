@@ -1,11 +1,22 @@
-# Binance - 2024.04.24
+# Binance - 2024.06.04
 
 host, www.binance.com, Binance
+host, themis.binance.com, Binance
 host, api.saasexch.cc, Binance
 host, api.saasexch.io, Binance
 host, report.binance.im, Binance
 host, www.binance.info, Binance
-host-suffix, binancecnt.com, Binance
+host, edge-api.saasexch.com, Binance
+host, stream.binance.info, Binance
+host, fstream.binance.info, Binance
+host, dstream.binance.info, Binance
+host, nbstream.binance.info, Binance
+host, fstream.binance.info, Binance
+host, native.binance.info, Binance
+host, log.bntrace.com, Binance
+host, public.bnbstatic.com, Binance
+host, bin.bnbstatic.com, Binance
+host, www.yingwangtech.cloud, Binance
 host, sdstream.yingwangtech.net, Binance
 host, nbstream.yingwangtech.net, Binance
 host, stream.yingwangtech.net, Binance
@@ -15,6 +26,7 @@ host, www.yingwangtech.net, Binance
 host, www.yingwangtech.mobi, Binance
 host, www.yingwangtech.club, Binance
 host, www.yingwangtech.cc, Binance
+host, domain-config-1306379396.file.myqcloud.com, Binance
 
 host-suffix, appsflayer.com, Binance
 host-suffix, binance.cc, Binance
@@ -48,6 +60,18 @@ host-suffix, bnappzh.co, Binance
 host-suffix, bnbstatic.com, Binance
 host-suffix, bnbzh.ac, Binance
 host-suffix, bntrace.com, Binance
+host-suffix, binancecnt.com, Binance
 host-suffix, saasexch.cc, Binance
 host-suffix, saasexch.io, Binance
 host-suffix, saasexch.com, Binance
+host-suffix, yingwangtech.cloud
+host-suffix, yingwangtech.net, Binance
+host-suffix, yingwangtech.mobi, Binance
+host-suffix, yingwangtech.club, Binance
+host-suffix, yingwangtech.cc, Binance
+
+ip-cidr, 47.107.98.27/32, Binance
+ip-cidr, 47.107.127.135/32, Binance
+ip-cidr, 52.68.117.1/32, Binance
+ip-cidr, 35.77.148.188/32, Binance
+ip-cidr, 54.150.106.1/32, Binance
