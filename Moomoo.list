@@ -7,6 +7,7 @@ host, conf.moomoo.com, Moomoo
 host, auth.moomoo.com, Moomoo
 host, sdauth.moomoo.com, Moomoo
 host, pass.moomoo.com, Moomoo
+host, sdreport.moomoo.com, Moomoo
 host, passport.moomoo.com, Moomoo
 host, update.moomoo.com, Moomoo
 host, j.moomoo.com, Moomoo
@@ -20,6 +21,7 @@ host, collect.sg.moomoo.com, Moomoo
 host, openaccount.sg.moomoo.com, Moomoo
 host, fund-upgrowth.sg.moomoo.com, Moomoo
 host, foss-mm-us.moomoo.com, Moomoo
+host, collect.us.moomoo.com, Moomoo
 host, dedog-server.moomoo.com, Moomoo
 host, dedog-server-sec.moomoo.com, Moomoo
 host, dedog-report-sec.moomoo.com, Moomoo
@@ -31,14 +33,15 @@ host, collect.moomoo.com, Moomoo
 host, qtcard.moomoo.com, Moomoo
 host, usnewsfile.moomoo.com, Moomoo
 host, offline-moo.moomoo.com, Moomoo
+host, attribution.moomoo.com, Moomoo
 host, shortsgp.im.qcloud.com, Moomoo
 host, promote-image-1251001049.cos.accelerate.myqcloud.com, Moomoo
 host, pubimg-10000538.picsh.myqcloud.com, Moomoo
 host, cdn.futustatic.com, Moomoo
 
-host-suffix, moomoo.com, Moomoo
 host-suffix, sg.moomoo.com, Moomoo
 host-suffix, us.moomoo.com, Moomoo
+host-suffix, moomoo.com, Moomoo
 
 # SG IP
 ip-cidr, 43.134.158.60/32, Moomoo
