@@ -1,4 +1,4 @@
-# Binance - 2024.06.04
+# Binance - 2024.06.06
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -8,6 +8,7 @@ host, native.binance.com, Binance
 host, stream.binance.com, Binance
 host, dstream.binance.com, Binance
 host, fstream.binance.com, Binance
+host, nbstream.binance.com, Binance
 host, themis.binance.com, Binance
 host, api.saasexch.cc, Binance
 host, api.saasexch.io, Binance
