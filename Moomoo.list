@@ -21,6 +21,7 @@ host, collect.sg.moomoo.com, Moomoo
 host, myaccount.sg.moomoo.com, Moomoo
 host, openaccount.sg.moomoo.com, Moomoo
 host, fund-upgrowth.sg.moomoo.com, Moomoo
+host, withdraw.sg.moomoo.com, Moomoo
 host, foss-mm-us.moomoo.com, Moomoo
 host, collect.us.moomoo.com, Moomoo
 host, dedog-server.moomoo.com, Moomoo
@@ -30,6 +31,7 @@ host, industry-chain-img.futunn.com, Moomoo
 host, report.moomoo.com, Moomoo
 host, stock-reward.moomoo.com, Moomoo
 host, news.moomoo.com, Moomoo
+host, newsvideo.moomoo.com, Moomoo
 host, sg-m-match.moomoo.com, Moomoo
 host, sgavatar.moomoo.com, Moomoo
 host, uscourseimg.moomoo.com, Moomoo
@@ -55,6 +57,7 @@ ip-cidr, 43.134.158.60/32, Moomoo
 ip-cidr, 43.134.158.106/32, Moomoo
 ip-cidr, 43.134.159.45/32, Moomoo
 ip-cidr, 43.134.159.189/32, Moomoo
+ip-cidr, 43.153.234.107/32, Moomoo
 ip-cidr, 101.33.43.108/32, Moomoo
 ip-cidr, 101.33.43.3/32, Moomoo
 ip-cidr, 101.32.143.93/32, Moomoo
@@ -82,4 +85,4 @@ ip-cidr, 42.193.217.66/32, Moomoo
 ip-cidr, 42.194.246.243/32, Moomoo
 ip-cidr, 101.33.192.19/32, Moomoo
 ip-cidr, 129.226.2.218/32, Moomoo
-;ip-cidr, 43.139.196.8/32, Moomoo
+ip-cidr, 43.139.196.8/32, Moomoo
