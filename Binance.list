@@ -36,7 +36,10 @@ host, www.yingwangtech.net, Binance
 host, www.yingwangtech.mobi, Binance
 host, www.yingwangtech.club, Binance
 host, www.yingwangtech.cc, Binance
+host, d3sknckuh1o9tg.cloudfront.net, Binance
 host, domain-config-1306379396.file.myqcloud.com, Binance
+host, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com, Binance
+host, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com, Binance
 
 host-suffix, appsflayer.com, Binance
 host-suffix, binance.cc, Binance
