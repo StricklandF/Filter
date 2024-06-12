@@ -21,6 +21,7 @@ host, appconfig.mocortech.com, MEXC
 host, public.mocortech.com, MEXC
 host, sis.push.engage7.com, MEXC
 host, sis.push.engageforce.net, MEXC
+host, sis.push.theengagelab.com, MEXC
 host, trochilus-web.gotoda.co, MEXC
 host, trochi.gotoda.co, MEXC
 host, sentry.gotoda.co, MEXC
@@ -41,3 +42,4 @@ ip-cidr, 110.238.104.159/32, MEXC
 ip-cidr, 159.138.85.252/32, MEXC
 ip-cidr, 190.92.198.30/32, MEXC
 ip-cidr, 119.8.191.101/32, MEXC
+ip-cidr, 119.13.110.238/32, MEXC
