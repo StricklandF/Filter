@@ -1,4 +1,4 @@
-## Moomoo - 2024.06.06
+## Moomoo - 2024.06.12
 
 host, www.moomoo.com, Moomoo
 host, api.moomoo.com, Moomoo
@@ -28,6 +28,11 @@ host, dedog-server-sec.moomoo.com, Moomoo
 host, dedog-report-sec.moomoo.com, Moomoo
 host, industry-chain-img.futunn.com, Moomoo
 host, report.moomoo.com, Moomoo
+host, stock-reward.moomoo.com, Moomoo
+host, news.moomoo.com, Moomoo
+host, sg-m-match.moomoo.com, Moomoo
+host, sgavatar.moomoo.com, Moomoo
+host, uscourseimg.moomoo.com, Moomoo
 host, ussnsimg.moomoo.com, Moomoo
 host, usavatar.moomoo.com, Moomoo
 host, collect.moomoo.com, Moomoo
@@ -37,6 +42,7 @@ host, offline-moo.moomoo.com, Moomoo
 host, attribution.moomoo.com, Moomoo
 host, shortsgp.im.qcloud.com, Moomoo
 host, promote-image-1251001049.cos.accelerate.myqcloud.com, Moomoo
+host, course-img-1251001049.cos.accelerate.myqcloud.com, Moomoo
 host, pubimg-10000538.picsh.myqcloud.com, Moomoo
 host, cdn.futustatic.com, Moomoo
 
@@ -76,3 +82,4 @@ ip-cidr, 42.193.217.66/32, Moomoo
 ip-cidr, 42.194.246.243/32, Moomoo
 ip-cidr, 101.33.192.19/32, Moomoo
 ip-cidr, 129.226.2.218/32, Moomoo
+;ip-cidr, 43.139.196.8/32, Moomoo
