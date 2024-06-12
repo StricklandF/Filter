@@ -1,4 +1,4 @@
-# MEXC - 2024.06.12
+## MEXC - 2024.06.12
 
 host, www.mexc.com, MEXC
 host, m.mexc.com, MEXC
@@ -16,13 +16,28 @@ host, futures.greentreeone.com, MEXC
 host, wbs.greentreeone.com, MEXC
 host, pushstat.api.engagelab.cc, MEXC
 host, opt.mocortech.com, MEXC
+host, static.mocortech.com, MEXC
+host, appconfig.mocortech.com, MEXC
+host, public.mocortech.com, MEXC
+host, sis.push.engage7.com, MEXC
+host, sis.push.engageforce.net, MEXC
+host, trochilus-web.gotoda.co, MEXC
+host, trochi.gotoda.co, MEXC
+host, sentry.gotoda.co, MEXC
 host, s3-app-release.s3.ap-northeast-1.amazonaws.com, MEXC
 host, molor-app-logs-default.ap-southeast-1.log.aliyuncs.com, MEXC
+host, molor-app-performance-project.ap-southeast-1.log.aliyuncs.com, MEXC
 host, mxc-ios-app-logs-default.ap-southeast-1.log.aliyuncs.com, MEXC
 
-
 host-suffix, mexc.com, MEXC
-host-suffix, mexcsensors.com, MEXC
-host-suffix, flytogarden.com, MEXC
 host-suffix, 365huo.xyz, MEXC
+host-suffix, mocortech.com, MEXC
+host-suffix, mexcsensors.com, MEXC
 host-suffix, greentreeone.com, MEXC
+host-suffix, flytogarden.com, MEXC
+
+# Others
+ip-cidr, 110.238.104.159/32, MEXC
+ip-cidr, 159.138.85.252/32, MEXC
+ip-cidr, 190.92.198.30/32, MEXC
+ip-cidr, 119.8.191.101/32, MEXC
