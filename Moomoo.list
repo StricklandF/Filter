@@ -42,11 +42,11 @@ host, qtcard.moomoo.com, Moomoo
 host, usnewsfile.moomoo.com, Moomoo
 host, offline-moo.moomoo.com, Moomoo
 host, attribution.moomoo.com, Moomoo
-host, shortsgp.im.qcloud.com, Moomoo
-host, promote-image-1251001049.cos.accelerate.myqcloud.com, Moomoo
-host, course-img-1251001049.cos.accelerate.myqcloud.com, Moomoo
-host, pubimg-10000538.picsh.myqcloud.com, Moomoo
 host, cdn.futustatic.com, Moomoo
+host, shortsgp.im.qcloud.com, Moomoo
+host, pubimg-10000538.picsh.myqcloud.com, Moomoo
+host, course-img-1251001049.cos.accelerate.myqcloud.com, Moomoo
+host, promote-image-1251001049.cos.accelerate.myqcloud.com, Moomoo
 
 host-suffix, sg.moomoo.com, Moomoo
 host-suffix, us.moomoo.com, Moomoo
