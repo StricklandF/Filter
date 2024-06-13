@@ -1,4 +1,4 @@
-# HSBC HK - 2024.03.09
+## HSBC HK - 2024.06.13
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
@@ -19,23 +19,25 @@ host, investments4.personal-banking.hsbc.com.hk, HSBCHK
 host, webtrack-brickstreetconnect-ao-prd.hsbc.com.hk, HSBCHK
 host, pki.hsbc.com, HSBCHK
 host, pkicrl-internal.it.global.hsbc, HSBCHK
-host, zn1x4bay9t3d099pf-hsbcdigital.siteintercept.qualtrics.com, HSBCHK
-host, h.online-metrix.net, HSBCHK
-host, aa.online-metrix.net, HSBCHK
 host, sy.push.liveperson.net, HSBCHK
 host, sy.idp.liveperson.net, HSBCHK
 host, sy.msg.liveperson.net, HSBCHK
 host, sy.v.liveperson.net, HSBCHK
 host, sy.msghist.liveperson.net, HSBCHK
 host, lptag.liveperson.net, HSBCHK
-host, d0r7clfvzbdg6noi6k647mcvxkqetgqalbuemk2u7a007cc227c35229sac.d.aa.online-metrix.net, HSBCHK
-host, d0r7clfvf7kyyg4yavsatxjn2fcoifwoazpdhfi7a5e69a916d10d138sac.d.aa.online-metrix.net, HSBCHK
-host, eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
-host, messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
 host, log-58144bf0.we-stats.com, HSBCHK
 host, collect-ap-east-1.tealiumiq.com, HSBCHK
 host, mobile.eum-appdynamics.com, HSBCHK
 host, col.eum-appdynamics.com, HSBCHK
+host, h.online-metrix.net, HSBCHK
+host, aa.online-metrix.net, HSBCHK
+host, h64.online-metrix.net, HSBCHK
+host, d0r7clfvf7kyyg4yavsatxjn2fcoifwoazpdhfi7a5e69a916d10d138sac.d.aa.online-metrix.net, HSBCHK
+host, d0r7clfvzbdg6noi6k647mcvxkqetgqalbuemk2u7a007cc227c35229sac.d.aa.online-metrix.net, HSBCHK
+host, messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
+host, notifications.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
+host, zn1x4bay9t3d099pf-hsbcdigital.siteintercept.qualtrics.com, HSBCHK
+host, eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
 
 host-suffix, hsbc.com.hk, HSBCHK
 host-suffix, hsbc.com, HSBCHK
