@@ -1,4 +1,4 @@
-## Moomoo - 2024.06.12
+## Moomoo - 2024.06.13
 
 host, www.moomoo.com, Moomoo
 host, api.moomoo.com, Moomoo
@@ -16,6 +16,7 @@ host, stock-resource.moomoo.com, Moomoo
 host, emoticon.moomoo.com, Moomoo
 host, fegostatic.moomoo.com, Moomoo
 host, collect.moomoo.com, Moomoo
+host, editor.moomoo.com, Moomoo
 host, authority.sg.moomoo.com, Moomoo
 host, collect.sg.moomoo.com, Moomoo
 host, myaccount.sg.moomoo.com, Moomoo
@@ -25,6 +26,7 @@ host, withdraw.sg.moomoo.com, Moomoo
 host, foss-mm-us.moomoo.com, Moomoo
 host, collect.us.moomoo.com, Moomoo
 host, dedog-server.moomoo.com, Moomoo
+host, dedog-report.moomoo.com, Moomoo
 host, dedog-server-sec.moomoo.com, Moomoo
 host, dedog-report-sec.moomoo.com, Moomoo
 host, industry-chain-img.futunn.com, Moomoo
@@ -37,6 +39,7 @@ host, sgavatar.moomoo.com, Moomoo
 host, uscourseimg.moomoo.com, Moomoo
 host, ussnsimg.moomoo.com, Moomoo
 host, usavatar.moomoo.com, Moomoo
+host, auavatar.moomoo.com, Moomoo
 host, collect.moomoo.com, Moomoo
 host, qtcard.moomoo.com, Moomoo
 host, usnewsfile.moomoo.com, Moomoo
