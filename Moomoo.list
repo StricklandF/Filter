@@ -1,4 +1,4 @@
-## Moomoo - 2024.06.14
+## Moomoo - 2024.06.15
 
 host, www.moomoo.com, Moomoo
 host, api.moomoo.com, Moomoo
@@ -70,13 +70,17 @@ ip-cidr, 101.32.133.230/32, Moomoo
 ip-cidr, 101.32.104.226/32, Moomoo
 # US IP
 ip-cidr, 170.106.62.232/32, Moomoo
+ip-cidr, 170.106.62.85/32, Moomoo
 ip-cidr, 170.106.47.242/32, Moomoo
 ip-cidr, 49.51.79.237/32, Moomoo
 ip-cidr, 49.51.77.113/32, Moomoo
+ip-cidr, 49.51.78.82/32, Moomoo
 # HK IP
 ip-cidr, 43.132.138.6/32, Moomoo
 ip-cidr, 43.135.57.128/32, Moomoo
+ip-cidr, 43.132.107.164/32, Moomoo
 ip-cidr, 101.32.70.122/32, Moomoo
+ip-cidr, 101.32.198.103/32, Moomoo
 ip-cidr, 129.226.111.106/32, Moomoo
 ip-cidr, 119.28.183.68/32, Moomoo
 # JP IP
