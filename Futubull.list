@@ -1,4 +1,4 @@
-## Futubull - 2024.06.13
+## Futubull - 2024.06.16
 
 host, www.futuhk.com, Futubull
 host, api.futunn.com, Futubull
@@ -32,6 +32,8 @@ host, locale.futunn.com, Futubull
 host, postimg.futunn.com, Futubull
 host, passport.futunn.com, Futubull
 host, plb.futunn.com, Futubull
+host, j.futunn.com, Futubull
+host, industry-chain-img.futunn.com, Futubull
 host, exchange.futuhn.com, Futubull
 host, funds.futuhn.com, Futubull
 host, sdauth.futuhn.com, Futubull
