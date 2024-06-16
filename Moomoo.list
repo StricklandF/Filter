@@ -47,10 +47,12 @@ host, offline-moo.moomoo.com, Moomoo
 host, attribution.moomoo.com, Moomoo
 host, cdn.futustatic.com, Moomoo
 host, shortsgp.im.qcloud.com, Moomoo
+host, shortsgp.my-imcloud.com, Moomoo
 host, pubimg-10000538.picsh.myqcloud.com, Moomoo
 host, sgpubimg-1251001049.cos.accelerate.myqcloud.com, Moomoo
 host, course-img-1251001049.cos.accelerate.myqcloud.com, Moomoo
 host, promote-image-1251001049.cos.accelerate.myqcloud.com, Moomoo
+host, promote-image-us-1251001049.cos.accelerate.myqcloud.com, Moomoo
 
 host-suffix, sg.moomoo.com, Moomoo
 host-suffix, us.moomoo.com, Moomoo
@@ -62,12 +64,17 @@ ip-cidr, 43.134.158.106/32, Moomoo
 ip-cidr, 43.134.159.45/32, Moomoo
 ip-cidr, 43.134.159.189/32, Moomoo
 ip-cidr, 43.153.234.107/32, Moomoo
+ip-cidr, 43.153.238.1/24, Moomoo
 ip-cidr, 101.33.43.3/32, Moomoo
 ip-cidr, 101.33.43.108/32, Moomoo
 ip-cidr, 101.32.143.93/32, Moomoo
 ip-cidr, 101.32.133.230/32, Moomoo
 ip-cidr, 101.32.104.226/32, Moomoo
 ip-cidr, 129.226.1.154/32, Moomoo
+;ip-cidr, 43.153.238.188/32, Moomoo
+;ip-cidr, 43.153.238.250/32, Moomoo
+;ip-cidr, 43.153.238.215/32, Moomoo
+;ip-cidr, 43.153.238.13/32, Moomoo
 # US IP
 ip-cidr, 170.106.62.232/32, Moomoo
 ip-cidr, 170.106.62.85/32, Moomoo
