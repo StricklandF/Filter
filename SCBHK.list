@@ -1,4 +1,4 @@
-# Standard Chartered Bank HK - 2024.05.29
+## Standard Chartered Bank HK - 2024.06.26
 
 host, www.sc.com, SCBHK
 host, retail.sc.com, SCBHK
@@ -12,6 +12,7 @@ host, mczj830vrv006rwkhnsxmmyvyh2m.device.marketingcloudapis.com, SCBHK
 host, launches.appsflyer.com, SCBHK
 host, yvn1g4-inapps.appsflyersdk.com, SCBHK
 host, yvn1g4-launches.appsflyersdk.com, SCBHK
+host, yvn1g4-gcdsdk.appsflyersdk.com, SCBHK
 host, yvn1g4-cdn-settings.appsflyersdk.com, SCBHK
 host, dpm.demdex.net, SCBHK
 host, standchartbank.data.adobedc.net, SCBHK
