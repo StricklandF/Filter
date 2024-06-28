@@ -1,5 +1,7 @@
-# uSMART (HK & SG) - 2023.12.12
+## uSMART (HK & SG) - 2024.06.28
 
+# HK
+host, www.usmart.hk, uSmart
 host, hz.yxzq.com, uSmart
 host, jy.yxzq.com, uSmart
 host, sc.yxzq.com, uSmart
@@ -7,17 +9,22 @@ host, wj.yxzq.com, uSmart
 host, m.yxzq.com, uSmart
 host, web-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
 host, web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
+host, web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
 host, jy-common-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
 host, jy-common-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
+host, jy-common-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com, uSmart
 host, hq-prod-news-server-1257884527.file.myqcloud.com, uSmart
+host, hq-prod-news-server-1257884527.cos.ap-chengdu.myqcloud.com, uSmart
 host, hq-news-server-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
 host, web-static-rich-prd-hongkong-1305919280.cos.ap-hongkong.myqcloud.com, uSmart
+host, mlvbdc.live.qcloud.com, uSmart
 host, license.vod2.myqcloud.com, uSmart
 host-suffix, yxzq.com, uSmart
 host-suffix, usmart.hk, uSmart
 ip-cidr, 120.77.252.10/32, uSmart
 ip-cidr, 120.77.150.199/32, uSmart
 
+# SG
 host, www.usmart.sg, uSmart
 host, sc.usmartsg.com, uSmart
 host, jy.usmartsg.com, uSmart
