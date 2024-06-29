@@ -31,6 +31,7 @@ host, media-nrt1-1.cdn.whatsapp.net, WhatsApp
 host, media-ams4-1.cdn.whatsapp.net, WhatsApp
 host, media-mxp2-1.cdn.whatsapp.net, WhatsApp
 host, media-lhr6-2.cdn.whatsapp.net, WhatsApp
+host, www.whatsapp.com, WhatsApp
 host, graph.whatsapp.com, WhatsApp
 host, graph.facebook.com, WhatsApp
 host-suffix, bintray.com, WhatsApp
