@@ -1,4 +1,4 @@
-# WhatsApp - 2024.01.11
+## WhatsApp - 2024.06.29
 
 host, g.whatsapp.net, WhatsApp
 host, dit.whatsapp.net, WhatsApp
@@ -17,6 +17,7 @@ host, e16.whatsapp.net, WhatsApp
 host, crashlogs.whatsapp.net, WhatsApp
 host, sonar-ber.cdn.whatsapp.net, WhatsApp
 host, sonar-fra.cdn.whatsapp.net, WhatsApp
+host, sonar-nrt.cdn.whatsapp.net, WhatsApp
 host, media.fmnl15-1.fna.whatsapp.net, WhatsApp
 host, media.fotp3-3.fna.whatsapp.net, WhatsApp
 host, media.fotp3-4.fna.whatsapp.net, WhatsApp
