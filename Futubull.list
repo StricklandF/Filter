@@ -1,10 +1,11 @@
-## Futubull - 2024.06.26
+## Futubull - 2024.07.01
 
 host, www.futuhk.com, Futubull
 host, api.futunn.com, Futubull
 host, api5.futunn.com, Futubull
 host, avatar.futunn.com, Futubull
 host, static.futunn.com, Futubull
+host, conf.futunn.com, Futubull
 host, sdauth.futuhk.com, Futubull
 host, dedog-report-sec.futunn.com, Futubull
 host, dedog-server-sec.futunn.com, Futubull
@@ -23,17 +24,19 @@ host, offline-q.futunn.com, Futubull
 host, nnqimage.futunn.com, Futubull
 host, sdauth.futunn.com, Futubull
 host, news.futunn.com, Futubull
+host, newsfile.futunn.com, Futubull
 host, foss1.futunn.com, Futubull
 host, auth.futunn.com, Futubull
 host, fego-offline.futunn.com, Futubull
 host, update.futunn.com, Futubull
-host, cdn-img-wealth.futunn.com, Futubull
 host, locale.futunn.com, Futubull
 host, postimg.futunn.com, Futubull
 host, passport.futunn.com, Futubull
 host, plb.futunn.com, Futubull
 host, j.futunn.com, Futubull
 host, w5.futunn.com, Futubull
+host, fund-upgrowth.futuhn.com, Futubull
+host, cdn-img-wealth.futunn.com, Futubull
 host, industry-chain-img.futunn.com, Futubull
 host, exchange.futuhn.com, Futubull
 host, funds.futuhn.com, Futubull
@@ -51,6 +54,7 @@ host, fund-upgrowth.futufin.com, Futubull
 host, fund-upgrowth.futuhk2.com, Futubull
 host, sdauth.futuhk2.com, Futubull
 host, shortconn.im.qcloud.com, Futubull
+host, 1400001456l4c.my-imcloud.com, Futubull
 host, promote-image-1251001049.cos.accelerate.myqcloud.com, Futubull
 host, promote-image-hk-1251001049.cos.accelerate.myqcloud.com, Futubull
 
@@ -62,9 +66,11 @@ host-suffix, futuhk2.com, Futubull
 
 # SG IP
 ip-cidr, 43.132.12.114/32, Futubull
+ip-cidr, 43.153.233.181/32, Futubull
 ip-cidr, 43.153.233.212/32, Futubull
 # JP IP
 ip-cidr, 43.128.254.50/32, Futubull
+ip-cidr, 43.153.191.154/32, Futubull
 ip-cidr, 124.156.233.21/32, Futubull
 ip-cidr, 124.156.234.231/32, Futubull
 # US IP
@@ -81,3 +87,7 @@ ip-cidr, 124.156.124.226/32, Futubull
 # Others
 ip-cidr, 159.75.142.235/32, Futubull
 ip-cidr, 42.193.128.62/32, Futubull
+ip-cidr, 43.142.232.62/32, Futubull
+ip-cidr, 101.33.192.94/32, Futubull
+ip-cidr, 119.91.243.37/32, Futubull
+ip-cidr, 162.14.3.250/32, Futubull
