@@ -2,6 +2,8 @@
 
 host, www.kraken.com, Kraken
 host, iapi.kraken.com, Kraken
+host, api.kraken.com, Kraken
+host, status.kraken.com, Kraken
 host, ws.kraken.com, Kraken
 host, ws-auth.kraken.com, Kraken
 host, ws-frontend.kraken.com, Kraken
