@@ -10,6 +10,7 @@ host, futures.kraken.com, Kraken
 host, kraken.zendesk.com, Kraken
 host, support.kraken.com, Kraken
 host, pro.kraken.com, Kraken
+host, nft.kraken.com, Kraken
 host-keyword, kraken, Kraken
 host-suffix, kraken.com, Kraken
 
