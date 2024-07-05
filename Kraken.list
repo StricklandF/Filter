@@ -1,4 +1,4 @@
-## Kraken - 2024.07.04
+## Kraken - 2024.07.05
 
 host, www.kraken.com, Kraken
 host, iapi.kraken.com, Kraken
@@ -21,6 +21,7 @@ host, p.sardine.ai, Kraken
 host, api.sardine.ai, Kraken
 host, api.smooch.io, Kraken
 host, cdn.branch.io, Kraken
+host, api2.branch.io, Kraken
 host, api3.branch.io, Kraken
 host, ota.phraseapp.com, Kraken
 host, sdk.iad-05.braze.com, Kraken
@@ -28,7 +29,12 @@ host, o552333.ingest.sentry.io, Kraken
 host, o438986.ingest.sentry.io, Kraken
 host, api.segment.io, Kraken
 host, cdn-settings.segment.com, Kraken
+host, jj04po538pzh1hj2xbk00rxkwkkpkeji.d.sardine.ai, Kraken
+host, h5ngovfmlxqyygb0xmjil1glul1kenzs.d.sardine.ai, Kraken
+host, 1c92053yjzs6qfgaq3uqekxj1lvh5cvk.d.sardine.ai, Kraken
 host, 7nk68picrigdk9m5o16i3qx5k1q1rpkr.d.sardine.ai, Kraken
 host, rwyiss3y1mlk391fw2alded0jgzqinwz.d.sardine.ai, Kraken
 host, a4u3zimdroppcmk576rxyglwkg74bec4.d.sardine.ai, Kraken
+host, v1ma479bgi7kh63o7bu9ovueqq9trn5d.d.sardine.ai, Kraken
 host, x78uqm1qpg9gw957nh71738dr5ldgyg4.d.sardine.ai, Kraken
+host-suffix, sardine.ai, Kraken
