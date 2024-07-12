@@ -1,0 +1,13 @@
+## Trading 212 - 2024.07.12
+
+host, www.trading212.com, Trading212
+host, live.services.trading212.com, Trading212
+host, community.trading212.com, Trading212
+host, trading212equities.s3.eu-central-1.amazonaws.com, Trading212
+host-suffix, trading212.com, Trading212
+host-keyword, trading212, Trading212
+
+# Related Domains
+host, api.onfido.com, Trading212
+host, login.truelayer.com, Trading212
+host, stats.azmsoft.com, Trading212
