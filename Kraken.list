@@ -1,4 +1,4 @@
-## Kraken - 2024.07.05
+## Kraken - 2024.07.12
 
 host, www.kraken.com, Kraken
 host, iapi.kraken.com, Kraken
@@ -11,6 +11,7 @@ host, assets.kraken.com, Kraken
 host, futures.kraken.com, Kraken
 host, kraken.zendesk.com, Kraken
 host, support.kraken.com, Kraken
+host, surveys.kraken.com, Kraken
 host, pro.kraken.com, Kraken
 host, nft.kraken.com, Kraken
 host-keyword, kraken, Kraken
