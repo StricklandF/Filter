@@ -1,8 +1,11 @@
-## Trading 212 - 2024.07.12
+## Trading 212 - 2024.07.15
 
 host, www.trading212.com, Trading212
 host, live.services.trading212.com, Trading212
 host, community.trading212.com, Trading212
+host, helpcentre.trading212.com, Trading212
+host, trading2129704.zendesk.com, Trading212
+host, trading212equities.s3.amazonaws.com, Trading212
 host, trading212equities.s3.eu-central-1.amazonaws.com, Trading212
 host-suffix, trading212.com, Trading212
 host-keyword, trading212, Trading212
