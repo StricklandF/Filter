@@ -1,0 +1,7 @@
+## iFast GB - 2024.07.19
+
+host, www.ifastgb.com, iFastGB
+host, sentry.ifastgb.com, iFastGB
+host, talsec-elk.ifastgb.com, iFastGB
+host-keyword, ifastgb, iFastGB
+host-suffix, ifastgb.com, iFastGB
