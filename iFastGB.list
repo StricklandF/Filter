@@ -3,5 +3,11 @@
 host, www.ifastgb.com, iFastGB
 host, sentry.ifastgb.com, iFastGB
 host, talsec-elk.ifastgb.com, iFastGB
+host, jylcpxrv.r.eu-west-2.awstrack.me, iFastGB
+host, www.ifastglobalview.com, iFastGB
+host, igb-ai-cs-communication-app-prod.azurewebsites.net, iFastGB
+
 host-keyword, ifastgb, iFastGB
+host-keyword, igb, iFastGB
 host-suffix, ifastgb.com, iFastGB
+host-suffix, ifastglobalview.com, iFastGB
