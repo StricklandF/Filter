@@ -1,12 +1,13 @@
-# Skype 域名分流 (置于 Microsoft 分流之上) - 2024.02.22
+## Skype  (置于 Microsoft 分流之上) - 2024.07.23
 
 host, api.skype.com, Skype
 host, api.aps.skype.com, Skype
 host, api.flightproxy.skype.com, Skype
 host, edge.skype.com, Skype
-host, trouter-azsc-ukwe-0-b.trouter.skype.com, Skype
 host, pub-csm-euno-01-t.trouter.skype.com, Skype
 host, pub-csm-jpea-02-t.trouter.skype.com, Skype
+host, pub-csm-plce-02-t.trouter.skype.com, Skype
+host, trouter-azsc-ukwe-0-b.trouter.skype.com, Skype
 host, mrrcountries.cdn.skype.com, Skype
 host, api.promotions.skype.com, Skype
 host, msgsearch.skype.com, Skype
@@ -28,6 +29,7 @@ host, prod.registrar.skype.com, Skype
 host, we.prod.registrar.skype.com, Skype
 host, login.live.com, Skype
 
+host-keyword, skype, Skype
 host-suffix, skype.com, Skype
 host-suffix, skypeassets.com, Skype
 host-suffix, registrar.skype.com, Skype
