@@ -1,4 +1,4 @@
-## N26 - 2024.07.23
+## N26 - 2024.07.27
 
 host, app.n26.com, N26
 host, api.tech26.de, N26
@@ -8,6 +8,7 @@ host, n26-eu.c2nwa3.net, N26
 host, n26-admedia.s3.eu-central-1.amazonaws.com, N26
 host, mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com, N26
 host, cdn.number26.de, N26
+host, n26.my.site.com, N26
 host, images.ctfassets.net, N26
 host, api.idnow.de, N26
 host, video.idnow.de, N26
