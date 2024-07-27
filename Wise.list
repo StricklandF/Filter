@@ -1,6 +1,5 @@
-# Wise - 2024.05.29
+## Wise - 2024.07.27
 
-host, loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com, Wise
 host, wise.com, Wise
 host, api.wise.com, Wise
 host, gtm.wise.com, Wise
@@ -8,6 +7,11 @@ host, api.authy.com, Wise
 host, api.mixpanel.com, Wise
 host, script.hotjar.com, Wise
 host, static.hotjar.com, Wise
+host, api.transferwise.com, Wise
+host, loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com, Wise
+
 host-suffix, wise.com, Wise
 host-suffix, mixpanel.com, Wise
 host-suffix, transferwise.com, Wise
+host-keyword, wise, Wise
+host-keyword, transferwise, Wise
