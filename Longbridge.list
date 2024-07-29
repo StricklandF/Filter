@@ -20,9 +20,16 @@ host, api.longbridge.global, Longbridge
 host, quote.lbkrs.com-test, Longbridge
 host, app.longbridgehk.com, Longbridge
 host, support.longbridgehk.com, Longbridge
+host, api-status.longbridgeapp.com, Longbridge
 host, m.lbctrl.com, Longbridge
 host, pub.lbctrl.com, Longbridge
 host, assets.lbctrl.com, Longbridge
+host, vcdn.lbctrl.com, Longbridge
+host, static.lbctrl.com, Longbridge
+host, event-tracking.lbctrl.com, Longbridge
+host, tts.pbkrs.com, Longbridge
+host, ub.pbkrs.com, Longbridge
+
 host-suffix, lbctrl.com, Longbridge
 host-suffix, lbkrs.com, Longbridge
 host-suffix, longbridge.com, Longbridge
