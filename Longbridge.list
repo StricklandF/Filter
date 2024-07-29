@@ -20,7 +20,7 @@ host, ping.longbridge.global, Longbridge
 host, api.longbridge.global, Longbridge
 host, quote.longbridge.global, Longbridge
 host, ws.longbridge.global, Longbridge
-order-connect.longbridge.global
+host, order-connect.longbridge.global, Longbridge
 host, quote.lbkrs.com-test, Longbridge
 host, app.longbridgehk.com, Longbridge
 host, support.longbridgehk.com, Longbridge
