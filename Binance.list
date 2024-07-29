@@ -1,4 +1,4 @@
-## Binance - 2024.07.12
+## Binance - 2024.07.29
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -9,6 +9,7 @@ host, stream.binance.com, Binance
 host, dstream.binance.com, Binance
 host, fstream.binance.com, Binance
 host, nbstream.binance.com, Binance
+host, sfstream.binance.com, Binance
 host, themis.binance.com, Binance
 host, api.saasexch.cc, Binance
 host, api.saasexch.io, Binance
@@ -20,7 +21,6 @@ host, stream.binance.info, Binance
 host, fstream.binance.info, Binance
 host, dstream.binance.info, Binance
 host, nbstream.binance.info, Binance
-host, fstream.binance.info, Binance
 host, native.binance.info, Binance
 host, log.bntrace.com, Binance
 host, public.bnbstatic.com, Binance
@@ -47,6 +47,7 @@ host, domain-config-1306379396.file.myqcloud.com, Binance
 host, m.api.forter.com, Binance
 host, b2d8207c-e08a-45cd-bc97-268da85016d2-addfd325e6e3.cdn.forter.com, Binance
 host, aad90d5c0e88c4b4285bd912f64d970d-1403944741.ap-northeast-1.elb.amazonaws.com, Binance
+host, bin-prod-new-websocket-alb-1463526464.ap-northeast-1.elb.amazonaws.com, Binance
 
 host-suffix, appsflayer.com, Binance
 host-suffix, binance.cc, Binance
@@ -56,6 +57,7 @@ host-suffix, binance.co, Binance
 host-suffix, binance.com, Binance
 host-suffix, binance.info, Binance
 host-suffix, binance.me, Binance
+host-suffix, binance.im, Binance
 host-suffix, binance.net, Binance
 host-suffix, binance.org, Binance
 host-suffix, binance.us, Binance
