@@ -14,9 +14,13 @@ host, assets.lbkrs.com, Longbridge
 host, geotest.lbkrs.com, Longbridge
 host, imageproxy.lbkrs.com, Longbridge
 host, cdn-support.lbkrs.com, Longbridge
+host, order-connect.lbkrs.com, Longbridge
 host, event-tracking.lbkrs.com, Longbridge
 host, ping.longbridge.global, Longbridge
 host, api.longbridge.global, Longbridge
+host, quote.longbridge.global, Longbridge
+host, ws.longbridge.global, Longbridge
+order-connect.longbridge.global
 host, quote.lbkrs.com-test, Longbridge
 host, app.longbridgehk.com, Longbridge
 host, support.longbridgehk.com, Longbridge
@@ -29,18 +33,22 @@ host, static.lbctrl.com, Longbridge
 host, event-tracking.lbctrl.com, Longbridge
 host, tts.pbkrs.com, Longbridge
 host, ub.pbkrs.com, Longbridge
+host, pub.pbkrs.com, Longbridge
 
 host-suffix, lbctrl.com, Longbridge
 host-suffix, lbkrs.com, Longbridge
+host-suffix, pbkrs.com, Longbridge
 host-suffix, longbridge.com, Longbridge
 host-suffix, longbridge.hk, Longbridge
 host-suffix, longbridge.sg, Longbridge
 host-suffix, longbridgehk.com, Longbridge
 host-suffix, longbridge.global, Longbridge
 host-suffix, longbridgeapp.com, Longbridge
+host-suffix, longportapp.com, Longbridge
 host-keyword, longbridge, Longbridge
 
 # Associated Domains
+host, deepknow.egoid.me, Longbridge
 host, lb-pspl-rawfile.s3.cn-north-1.amazonaws.com.cn, Longbridge
 host, cognito-identity.ap-southeast-1.amazonaws.com, Longbridge
 host, ar5xmqao2l.execute-api.ap-east-1.amazonaws.com, Longbridge
