@@ -16,10 +16,12 @@ host, imageproxy.lbkrs.com, Longbridge
 host, cdn-support.lbkrs.com, Longbridge
 host, order-connect.lbkrs.com, Longbridge
 host, event-tracking.lbkrs.com, Longbridge
+host, m.longbridge.global, Longbridge
 host, ping.longbridge.global, Longbridge
 host, api.longbridge.global, Longbridge
 host, quote.longbridge.global, Longbridge
 host, ws.longbridge.global, Longbridge
+host, activity.longbridge.global, Longbridge
 host, order-connect.longbridge.global, Longbridge
 host, quote.lbkrs.com-test, Longbridge
 host, app.longbridgehk.com, Longbridge
