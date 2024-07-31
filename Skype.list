@@ -1,4 +1,4 @@
-## Skype  (置于 Microsoft 分流之上) - 2024.07.23
+## Skype  (above Microsoft filter) - 2024.07.31
 
 host, api.skype.com, Skype
 host, api.aps.skype.com, Skype
@@ -7,6 +7,7 @@ host, edge.skype.com, Skype
 host, pub-csm-euno-01-t.trouter.skype.com, Skype
 host, pub-csm-jpea-02-t.trouter.skype.com, Skype
 host, pub-csm-plce-02-t.trouter.skype.com, Skype
+host, pub-csm-euno-02-t.trouter.skype.com, Skype
 host, trouter-azsc-ukwe-0-b.trouter.skype.com, Skype
 host, mrrcountries.cdn.skype.com, Skype
 host, api.promotions.skype.com, Skype
@@ -15,6 +16,7 @@ host, config.edge.skype.com, Skype
 host, people.skype.com, Skype
 host, avatar.skype.com, Skype
 host, options.skype.com, Skype
+host, presence.skype.com, Skype
 host, consumer.entitlement.skype.com, Skype
 host, inviteconnector.skype.com, Skype
 host, open-ai-connect.skype.com, Skype
@@ -25,13 +27,15 @@ host, apps.skypeassets.com, Skype
 host, static-asm.secure.skypeassets.com, Skype
 host, azscus1-client-s.gateway.messenger.live.com, Skype
 host, azwus1-client-s.gateway.messenger.live.com, Skype
+host, gateway-skype.bingviz.microsoftapp.net, Skype
 host, prod.registrar.skype.com, Skype
 host, we.prod.registrar.skype.com, Skype
 host, login.live.com, Skype
 
-host-keyword, skype, Skype
-host-suffix, skype.com, Skype
 host-suffix, skypeassets.com, Skype
+host-suffix, trouter.skype.com, Skype
 host-suffix, registrar.skype.com, Skype
+host-suffix, skype.com, Skype
+host-keyword, skype, Skype
 host-suffix, gateway.messenger.live.com, Skype
 host-suffix, live.com, Skype
