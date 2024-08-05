@@ -23,7 +23,6 @@ host-suffix, yxzq.com, uSmart
 host-suffix, usmart.hk, uSmart
 ip-cidr, 120.77.252.10/32, uSmart
 ip-cidr, 120.77.150.199/32, uSmart
-ip-cidr, 47.242.214.131/32, uSmart
 
 # SG
 host, www.usmart.sg, uSmart
@@ -37,4 +36,6 @@ host-suffix, usmartsg.com, uSmart
 host-suffix, usmart.sg, uSmart
 host-suffix, usmartglobal.com, uSmart
 host-suffix, usmartgroup.com, uSmart
+host-keyword, usmart, uSmart
 ip-cidr, 47.107.247.183/32, uSmart
+ip-cidr, 47.242.214.131/32, uSmart
