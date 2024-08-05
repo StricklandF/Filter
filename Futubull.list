@@ -38,6 +38,7 @@ host, w5.futunn.com, Futubull
 host, cdn-img-wealth.futunn.com, Futubull
 host, industry-chain-img.futunn.com, Futubull
 host, exchange.futuhn.com, Futubull
+host, withdraw.futuhn.com, Futubull
 host, funds.futuhn.com, Futubull
 host, sdauth.futuhn.com, Futubull
 host, collect.futuhn.com, Futubull
@@ -77,6 +78,7 @@ ip-cidr, 124.156.233.21/32, Futubull
 ip-cidr, 124.156.234.231/32, Futubull
 # US IP
 ip-cidr, 49.51.39.163/32, Futubull
+ip-cidr, 107.155.14.171/32, Futubull
 ip-cidr, 170.106.49.68/32, Futubull
 ip-cidr, 170.106.49.111/32, Futubull
 ip-cidr, 170.106.48.217/32, Futubull
