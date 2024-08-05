@@ -1,4 +1,4 @@
-## uSMART (HK & SG) - 2024.06.28
+## uSMART (HK & SG) - 2024.08.05
 
 # HK
 host, www.usmart.hk, uSmart
@@ -23,6 +23,7 @@ host-suffix, yxzq.com, uSmart
 host-suffix, usmart.hk, uSmart
 ip-cidr, 120.77.252.10/32, uSmart
 ip-cidr, 120.77.150.199/32, uSmart
+ip-cidr, 47.242.214.131/32, uSmart
 
 # SG
 host, www.usmart.sg, uSmart
