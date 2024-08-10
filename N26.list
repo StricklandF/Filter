@@ -1,4 +1,4 @@
-## N26 - 2024.08.08
+## N26 - 2024.08.10
 
 host, app.n26.com, N26
 host, api.tech26.de, N26
@@ -24,4 +24,5 @@ host, app.adjust.com, N26
 host, app.usercentrics.eu, N26
 host, assets.ctfassets.net, N26
 host, images.ctfassets.net, N26
+host, geolocation.onetrust.com, N26
 host, www.datadoghq-browser-agent.com, N26
