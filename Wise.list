@@ -1,9 +1,10 @@
-## Wise - 2024.07.27
+## Wise - 2024.08.11
 
 host, wise.com, Wise
 host, api.wise.com, Wise
 host, gtm.wise.com, Wise
 host, api.authy.com, Wise
+host, status.wise.com, Wise
 host, api.mixpanel.com, Wise
 host, script.hotjar.com, Wise
 host, static.hotjar.com, Wise
