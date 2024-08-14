@@ -7,6 +7,7 @@ host, status.kraken.com, Kraken
 host, ws.kraken.com, Kraken
 host, ws-auth.kraken.com, Kraken
 host, ws-frontend.kraken.com, Kraken
+host, assets-cms.kraken.com, Kraken
 host, assets.kraken.com, Kraken
 host, futures.kraken.com, Kraken
 host, kraken.zendesk.com, Kraken
