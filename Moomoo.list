@@ -1,4 +1,4 @@
-## Moomoo - 2024.06.16
+## Moomoo - 2024.08.15
 
 host, www.moomoo.com, Moomoo
 host, api.moomoo.com, Moomoo
@@ -22,6 +22,7 @@ host, collect.sg.moomoo.com, Moomoo
 host, myaccount.sg.moomoo.com, Moomoo
 host, openaccount.sg.moomoo.com, Moomoo
 host, fund-upgrowth.sg.moomoo.com, Moomoo
+host, account-manage.sg.moomoo.com, Moomoo
 host, withdraw.sg.moomoo.com, Moomoo
 host, foss-mm-us.moomoo.com, Moomoo
 host, collect.us.moomoo.com, Moomoo
