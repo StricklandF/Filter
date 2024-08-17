@@ -1,4 +1,4 @@
-## Binance - 2024.07.29
+## Binance - 2024.08.17
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -39,6 +39,7 @@ host, www.yingwangtech.cc, Binance
 
 # Related Domains
 host, www.mokexapp.net, Binance
+host, native.mokexapp.net, Binance
 host, crt.r2m01.amazontrust.com, Binance
 host, crt.rootca1.amazontrust.com, Binance
 host, crt.rootg2.amazontrust.com, Binance
