@@ -1,4 +1,4 @@
-## Longbridge - 2024.08.05
+## Longbridge - 2024.08.20
 
 host, ws.lbkrs.com, Longbridge
 host, api.lbkrs.com, Longbridge
@@ -36,6 +36,7 @@ host, event-tracking.lbctrl.com, Longbridge
 host, tts.pbkrs.com, Longbridge
 host, ub.pbkrs.com, Longbridge
 host, pub.pbkrs.com, Longbridge
+host, imageproxy.pbkrs.com, Longbridge
 host, assets.wbrks.com, Longbridge
 
 host-suffix, lbctrl.com, Longbridge
@@ -59,4 +60,5 @@ host, kinesis.ap-east-1.amazonaws.com, Longbridge
 host, apmplus.volces.com, Longbridge
 host, api.geetest.com, Longbridge
 host, static.geetest.com, Longbridge
+host, dkapi.geetest.com, Longbridge
 host-suffix, geetest.com, Longbridge
