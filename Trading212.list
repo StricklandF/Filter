@@ -1,4 +1,4 @@
-## Trading 212 - 2024.08.06
+## Trading 212 - 2024.08.24
 
 host, www.trading212.com, Trading212
 host, live.services.trading212.com, Trading212
@@ -15,6 +15,7 @@ host, api.onfido.com, Trading212
 host, login.truelayer.com, Trading212
 host, stats.azmsoft.com, Trading212
 host, eu1.clevertap-prod.com, Trading212
+host, ocsp.r2m01.amazontrust.com, Trading212
 host, d14vqntc8kjril.cloudfront.net, Trading212
 host, d1o59w04t0rrym.cloudfront.net, Trading212
 host, yrkm8m-inapps.appsflyersdk.com, Trading212
