@@ -1,4 +1,4 @@
-## Zalo - 2024.07.20
+## Zalo - 2024.08.24
 
 host, zalo, Zalo
 host, setting.api.zaloapp.com, Zalo
@@ -33,20 +33,19 @@ host, qr.talk.zdn.vn, Zalo
 host, srv.mp3.zing.vn, Zalo
 host, mp3.zing.vn, Zalo
 host, id.zalo.me, Zalo
+host, mini.zalo.me, Zalo
 host, help.zalo.me, Zalo
 host, zcld.chat.zalo.me, Zalo
 host, ads-platform.zalo.me, Zalo
 host, s160-ava-talk.zadn.vn, Zalo
 host, s160.avatar.talk.zdn.vn, Zalo
+host, zpsocial2-f3-org.zadn.vn, Zalo
 host, zpsocial2-f7-w480.zadn.vn, Zalo
 host, mcloud-hls-pl-12-zfeed-video-aka.zdn.vn, Zalo
 host, mcloud-whls-ch-12-zfeed-video-aka.zdn.vn, Zalo
 host, zfeed-video-mcloud-mpl-s12.zadn.vn, Zalo
 host, zfeed-video-mcloud-whch-s12-te-vnso-tt-3.zadn.vn, Zalo
 
-user-agent, zalo*, Zalo
-host-keyword, zalo, Zalo
-host-keyword, zadn, Zalo
 host-suffix, zaloapp.com, Zalo
 host-suffix, zadn.vn, Zalo
 host-suffix, zdn.vn, Zalo
@@ -54,5 +53,8 @@ host-suffix, zapps.vn, Zalo
 host-suffix, zmdcdn.me, Zalo
 host-suffix, zalo.me, Zalo
 host-suffix, zalopay.vn, Zalo
+host-keyword, zadn, Zalo
+host-keyword, zalo, Zalo
+user-agent, zalo*, Zalo
 ip-cidr, 120.138.69.0/24, Zalo
 ip-cidr, 120.138.74.172/24, Zalo
