@@ -1,10 +1,12 @@
-## Grab - 2024.07.01
+## Grab - 2024.08.29
 
 host, api.grab.com, Grab
-host, partner-api.grab.com, Grab
 host, icons.grab.com, Grab
-host, assets-mobile.grab.com, Grab
+host, partner-api.grab.com, Grab
 host, ads-cdn.grab.com, Grab
+host, food-cms.grab.com, Grab
+host, assets-mobile.grab.com, Grab
+host, map-tiles-cloudfront.grab.com, Grab
 host, hermes2.grabtaxi.com, Grab
 host, p.grabtaxi.com, Grab
 host, mcd-gateway.grabtaxi.com, Grab
