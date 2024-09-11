@@ -1,4 +1,4 @@
-## Binance - 2024.08.20
+## Binance - 2024.09.11
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -11,6 +11,7 @@ host, fstream.binance.com, Binance
 host, nbstream.binance.com, Binance
 host, sfstream.binance.com, Binance
 host, themis.binance.com, Binance
+host, www.binance.click, Binance
 host, api.saasexch.cc, Binance
 host, api.saasexch.co, Binance
 host, api.saasexch.io, Binance
@@ -28,6 +29,7 @@ host, log.bntrace.com, Binance
 host, public.bnbstatic.com, Binance
 host, bin.bnbstatic.com, Binance
 host, www.binancecnt.com, Binance
+host, reslove.saasexch.com, Binance
 host, www.yingwangtech.cloud, Binance
 host, sdstream.yingwangtech.net, Binance
 host, nbstream.yingwangtech.net, Binance
@@ -41,6 +43,7 @@ host, www.yingwangtech.cc, Binance
 
 # Related Domains
 host, m.api.forter.com, Binance
+host, www.mokexapp.me, Binance
 host, www.mokexapp.net, Binance
 host, native.mokexapp.net, Binance
 host, crt.r2m01.amazontrust.com, Binance
