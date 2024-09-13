@@ -1,4 +1,4 @@
-# ZA Bank HK - 2024.08.24
+# ZA Bank HK - 2024.09.13
 
 host, www.za.group, ZABHK
 host, bank.za.group, ZABHK
@@ -11,9 +11,11 @@ host, offlineapp.za.group, ZABHK
 host, appguard.za.group, ZABHK
 host, app.za.group, ZABHK
 host, m.za.group, ZABHK
+host, l.za.group, ZABHK
 host, wms.za.group, ZABHK
 host, i18n.za.group, ZABHK
 host, coffee.za.group, ZABHK
+host, mobile.za.group, ZABHK
 host, zaip-aic.za.group, ZABHK
 host, xman-xflow-sdk.za.group, ZABHK
 host, cdn.zaticdn.com, ZABHK
