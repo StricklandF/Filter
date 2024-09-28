@@ -1,4 +1,4 @@
-## Longbridge - 2024.08.31
+## Longbridge - 2024.09.28
 
 host, ws.lbkrs.com, Longbridge
 host, api.lbkrs.com, Longbridge
@@ -39,6 +39,7 @@ host, pub.pbkrs.com, Longbridge
 host, imageproxy.pbkrs.com, Longbridge
 host, assets.wbrks.com, Longbridge
 host, longbridge.app.wbrks.com, Longbridge
+host, longbridge.activity.wbrks.com, Longbridge
 
 host-suffix, lbctrl.com, Longbridge
 host-suffix, lbkrs.com, Longbridge
