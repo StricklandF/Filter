@@ -1,4 +1,4 @@
-## Binance - 2024.09.11
+## Binance - 2024.09.28
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -19,6 +19,7 @@ host, api.saasexch.com, Binance
 host, report.binance.im, Binance
 host, www.binance.info, Binance
 host, accounts.binance.info, Binance
+host, accounts.binance.me, Binance
 host, edge-api.saasexch.com, Binance
 host, stream.binance.info, Binance
 host, fstream.binance.info, Binance
