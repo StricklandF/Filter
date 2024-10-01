@@ -1,4 +1,4 @@
-## Longbridge - 2024.09.28
+## Longbridge - 2024.10.01
 
 host, ws.lbkrs.com, Longbridge
 host, api.lbkrs.com, Longbridge
@@ -25,6 +25,7 @@ host, activity.longbridge.global, Longbridge
 host, order-connect.longbridge.global, Longbridge
 host, quote.lbkrs.com-test, Longbridge
 host, app.longbridgehk.com, Longbridge
+host, activity.longbridgehk.com, Longbridge
 host, support.longbridgehk.com, Longbridge
 host, api-status.longbridgeapp.com, Longbridge
 host, m.lbctrl.com, Longbridge
