@@ -1,4 +1,4 @@
-## Wise - 2024.09.07
+## Wise - 2024.10.01
 
 host, wise.com, Wise
 host, api.wise.com, Wise
@@ -13,6 +13,7 @@ host, api.transferwise.com, Wise
 host, loki-v42zc5nx3sj7swjbm6zacmssmtcs2gck.wise.com, Wise
 host, sdk.fra-01.braze.eu, Wise
 host, sdk-api-v1.singular.net, Wise
+host, wi.se, Wise
 
 host-suffix, wise.com, Wise
 host-suffix, mixpanel.com, Wise
