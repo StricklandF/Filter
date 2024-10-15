@@ -1,5 +1,11 @@
-## Skype  (above Microsoft filter) - 2024.08.20
+## Skype  (above Microsoft filter) - 2024.10.15
 
+host, www.skype.com, Skype
+host, swc.cdn.skype.com, Skype
+host, a.lw.skype.com, Skype
+host, go.skype.com, Skype
+host, support.skype.com, Skype
+host, login.skype.com, Skype
 host, api.skype.com, Skype
 host, api.aps.skype.com, Skype
 host, api.flightproxy.skype.com, Skype
@@ -26,6 +32,7 @@ host, engagementapi.skype.com, Skype
 host, channels.skype.com, Skype
 host, pnv.skype.com, Skype
 host, apps.skypeassets.com, Skype
+host, secure.skypeassets.com, Skype
 host, static-asm.secure.skypeassets.com, Skype
 host, azeus1-client-s.gateway.messenger.live.com, Skype
 host, azwus1-client-s.gateway.messenger.live.com, Skype
@@ -34,6 +41,9 @@ host, gateway-skype.bingviz.microsoftapp.net, Skype
 host, prod.registrar.skype.com, Skype
 host, we.prod.registrar.skype.com, Skype
 host, login.live.com, Skype
+
+host, sgp.gmw.cn, Skype
+host, shiguangpu.com, Skype
 
 host-suffix, skypeassets.com, Skype
 host-suffix, trouter.skype.com, Skype
