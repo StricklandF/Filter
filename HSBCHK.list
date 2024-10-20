@@ -1,4 +1,4 @@
-## HSBC HK - 2024.07.12
+## HSBC HK - 2024.10.20
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
@@ -15,6 +15,7 @@ host, m.mobilex-static.hsbc.com.hk, HSBCHK
 host, mauth-hk.hsbc.com.hk, HSBCHK
 host, servicing.hsbc.com.hk, HSBCHK
 host, insurance.hsbc.com.hk, HSBCHK
+host, cloud.messaging.hsbc.com.hk, HSBCHK
 host, investments4.personal-banking.hsbc.com.hk, HSBCHK
 host, webtrack-brickstreetconnect-ao-prd.hsbc.com.hk, HSBCHK
 host, pki.hsbc.com, HSBCHK
