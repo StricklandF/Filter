@@ -1,4 +1,4 @@
-## iFast GB - 2024.07.27
+## iFast GB - 2024.10.20
 
 host, www.ifastgb.com, iFastGB
 host, sentry.ifastgb.com, iFastGB
@@ -7,6 +7,7 @@ host, www.ifastglobalview.com, iFastGB
 host, secure.fundsupermart.com, iFastGB
 host, jylcpxrv.r.eu-west-2.awstrack.me, iFastGB
 host, igb-ai-cs-communication-app-prod.azurewebsites.net, iFastGB
+host, communication-services-igb-ai-cs-prod.uk.communication.azure.com, iFastGB
 
 host-keyword, igb, iFastGB
 host-keyword, ifastgb, iFastGB
