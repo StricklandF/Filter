@@ -1,0 +1,6 @@
+## Apple ID - 2024.10.22
+
+host, appleid.apple.com, AppleID
+host, appleid.cdn-apple.com, AppleID
+host, idmsa.apple.com, AppleID
+host, gsa.apple.com, AppleID

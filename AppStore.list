@@ -1,0 +1,7 @@
+## App Store - 2024.10.22
+
+host-suffix, itunes.apple.com, AppStore
+host-suffix, apps.apple.com, AppStore
+host-suffix, mzstatic.com, AppStore
+host, itunes.apple.com, AppStore
+host, ppq.apple.com, AppStore
