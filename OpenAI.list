@@ -1,17 +1,54 @@
-# OpenAI (ChatGPT) - 2023.11.18
+## OpenAI (ChatGPT) - 2024.11.02
 
 host, chat.openai.com, OpenAI
 host, cdn.openai.com, OpenAI
+host, api.statsig.com, OpenAI
+host, ab.chatgpt.com, OpenAI
+host, help.openai.com, OpenAI
+host, ios.chat.openai.com, OpenAI
+host, o33249.ingest.sentry.io, OpenAI
+host, openai-api.arkoselabs.com, OpenAI
+host, browser-intake-datadoghq.com, OpenAI
+host, chat.openai.com.cdn.cloudflare.net, OpenAI
+host, production-openaicom-storage.azureedge.net, OpenAI
+host, openaicomproductionae4b.blob.core.windows.net, OpenAI
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, OpenAI
 host-suffix, openai.com, OpenAI
 host-suffix, ai.com, OpenAI
+host-suffix, chatgpt.com, OpenAI
+host-suffix, chatgptvideo.xyz, OpenAI
+host-suffix, chatgptvideob.buzz, OpenAI
 host-suffix, openaiapi-site.azureedge.net, OpenAI
 host-suffix, identrust.com, OpenAI
 host-suffix, auth0.com, OpenAI
 host-suffix, openaiapi-site.azureedge.net, OpenAI
 host-suffix, openaicom.imgix.net, OpenAI
-host-suffix, openaicomproductionae4b.blob.core.windows.net, OpenAI
-host-suffix, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, OpenAI
-host-keyword,openai, OpenAI
+host-keyword, openai, OpenAI
+host-keyword, openaicom-api, OpenAI
+
+# ChatGPT Voice
+host-suffix, chatgpt.livekit.cloud, OpenAI
+host-suffix, host.livekit.cloud, OpenAI
+host-suffix, turn.livekit.cloud, OpenAI
+ip-cidr, 104.238.150.13/32, OpenAI
+ip-cidr, 143.110.232.239/32, OpenAI
+ip-cidr, 143.198.200.27/32, OpenAI
+ip-cidr, 159.89.204.203/32, OpenAI
+ip-cidr, 164.92.115.213/32, OpenAI
+ip-cidr, 164.92.71.155/32, OpenAI
+ip-cidr, 198.13.38.242/32, OpenAI
+ip-cidr, 207.148.108.93/32, OpenAI
+ip-cidr, 24.199.123.28/32, OpenAI
+ip-cidr, 45.32.12.145/32, OpenAI
+ip-cidr, 45.55.196.68/32, OpenAI
+ip-cidr, 45.76.214.191/32, OpenAI
+ip-cidr, 64.23.132.171/32, OpenAI
+ip6-cidr, 2001:19f0:7001:1149:5400:4ff:feac:a0b3/128, OpenAI
+ip6-cidr, 2001:19f0:7001:55b3:5400:4ff:feab:ba8f/128, OpenAI
+ip6-cidr, 2001:19f0:7001:8e6:5400:4ff:feab:b953/128, OpenAI
+ip6-cidr, 2401:c080:1000:47c5:5400:4ff:feab:f724/128, OpenAI
+ip-asn, 14061, OpenAI
+ip-asn, 20473, OpenAI
 
 # Other associated domains
 host-suffix, challenges.cloudflare.com, OpenAI
@@ -25,5 +62,7 @@ host-suffix, intercom.io, OpenAI
 host-suffix, intercomcdn.com, OpenAI
 host-suffix, poe.com, OpenAI
 host-suffix, sentry.io, OpenAI
+host-suffix, algolia.net, OpenAI
+host-suffix, auth0.com, OpenAI
 
 ;host-suffix, launchdarkly.com, OpenAI
