@@ -5,6 +5,7 @@ host, cdn.openai.com, OpenAI
 host, api.statsig.com, OpenAI
 host, ab.chatgpt.com, OpenAI
 host, help.openai.com, OpenAI
+host, auth0.openai.com, OpenAI
 host, ios.chat.openai.com, OpenAI
 host, o33249.ingest.sentry.io, OpenAI
 host, openai-api.arkoselabs.com, OpenAI
