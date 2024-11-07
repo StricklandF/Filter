@@ -1,4 +1,4 @@
-## OpenAI (ChatGPT) - 2024.11.02
+## OpenAI (ChatGPT) - 2024.11.07
 
 host, chat.openai.com, OpenAI
 host, cdn.openai.com, OpenAI
@@ -16,6 +16,7 @@ host, openaicomproductionae4b.blob.core.windows.net, OpenAI
 host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, OpenAI
 host-suffix, openai.com, OpenAI
 host-suffix, ai.com, OpenAI
+host-suffix, chat.com, OpenAI
 host-suffix, chatgpt.com, OpenAI
 host-suffix, chatgptvideo.xyz, OpenAI
 host-suffix, chatgptvideob.buzz, OpenAI
