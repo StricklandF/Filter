@@ -1,7 +1,8 @@
-## Moomoo - 2024.08.31
+## Moomoo - 2024.11.16
 
 host, www.moomoo.com, Moomoo
 host, api.moomoo.com, Moomoo
+host, api.moomoobull.com, Moomoo
 host, static.moomoo.com, Moomoo
 host, conf.moomoo.com, Moomoo
 host, auth.moomoo.com, Moomoo
@@ -62,6 +63,7 @@ host, promote-image-us-1251001049.cos.accelerate.myqcloud.com, Moomoo
 host-suffix, sg.moomoo.com, Moomoo
 host-suffix, us.moomoo.com, Moomoo
 host-suffix, moomoo.com, Moomoo
+host-suffix, moomoobull.com, Moomoo
 
 # SG IP
 ip-cidr, 43.134.158.60/32, Moomoo
