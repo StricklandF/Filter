@@ -1,4 +1,4 @@
-## Kraken - 2024.08.31
+## Kraken - 2024.11.16
 
 host, www.kraken.com, Kraken
 host, iapi.kraken.com, Kraken
@@ -6,6 +6,7 @@ host, api.kraken.com, Kraken
 host, status.kraken.com, Kraken
 host, ws.kraken.com, Kraken
 host, ws-auth.kraken.com, Kraken
+host, ws-portfolio.kraken.com, Kraken
 host, ws-frontend.kraken.com, Kraken
 host, assets-cms.kraken.com, Kraken
 host, assets.kraken.com, Kraken
