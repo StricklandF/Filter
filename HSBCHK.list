@@ -1,4 +1,4 @@
-## HSBC HK - 2024.10.20
+## HSBC HK - 2024.11.25
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
@@ -12,13 +12,16 @@ host, dco-ao.hsbc.com.hk, HSBCHK
 host, dco-dc.hsbc.com.hk, HSBCHK
 host, www.eticketing.hsbc.com.hk, HSBCHK
 host, m.mobilex-static.hsbc.com.hk, HSBCHK
+host, wealth-mobilex-static.hsbc.com.hk, HSBCHK
 host, mauth-hk.hsbc.com.hk, HSBCHK
 host, servicing.hsbc.com.hk, HSBCHK
 host, insurance.hsbc.com.hk, HSBCHK
+host, appointment.hsbc.com.hk, HSBCHK
 host, cloud.messaging.hsbc.com.hk, HSBCHK
 host, investments4.personal-banking.hsbc.com.hk, HSBCHK
 host, webtrack-brickstreetconnect-ao-prd.hsbc.com.hk, HSBCHK
 host, pki.hsbc.com, HSBCHK
+host, hsbchk.jrni.com, HSBCHK
 host, pkicrl-internal.it.global.hsbc, HSBCHK
 host, sy.push.liveperson.net, HSBCHK
 host, sy.idp.liveperson.net, HSBCHK
@@ -34,8 +37,11 @@ host, col.eum-appdynamics.com, HSBCHK
 host, h.online-metrix.net, HSBCHK
 host, aa.online-metrix.net, HSBCHK
 host, h64.online-metrix.net, HSBCHK
+host, h-sdk.online-metrix.net, HSBCHK
 host, accdn.lpsnmedia.net, HSBCHK
 host, lpcdn.lpsnmedia.net, HSBCHK
+host, tags.tiqcdn.com, HSBCHK
+host, akamai.tiqcdn.com, HSBCHK
 host, d0r7clfvf7kyyg4yavsatxjn2fcoifwoazpdhfi7a5e69a916d10d138sac.d.aa.online-metrix.net, HSBCHK
 host, d0r7clfvzbdg6noi6k647mcvxkqetgqalbuemk2u7a007cc227c35229sac.d.aa.online-metrix.net, HSBCHK
 host, messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
@@ -46,3 +52,5 @@ host, eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
 host-suffix, hsbc.com.hk, HSBCHK
 host-suffix, hsbc.com, HSBCHK
 host-suffix, global.hsbc, HSBCHK
+host-keyword, hsbchk, HSBCHK
+
