@@ -1,4 +1,4 @@
-## Kraken - 2024.11.19
+## Kraken - 2025.01.05
 
 host, www.kraken.com, Kraken
 host, iapi.kraken.com, Kraken
@@ -18,8 +18,11 @@ host, pro.kraken.com, Kraken
 host, nft.kraken.com, Kraken
 host, link.kraken.com, Kraken
 host, blog.kraken.com, Kraken
+host, ftlofs1.kraken.com, Kraken
+host, ftlofs2.kraken.com, Kraken
 host, krakenpro.onl, Kraken
 host, kraken.pxf.io, Kraken
+host, kraken.app.link, Kraken
 host-suffix, kraken.com, Kraken
 host-keyword, kraken, Kraken
 host-keyword, krakenpro, Kraken
