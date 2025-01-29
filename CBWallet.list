@@ -27,6 +27,7 @@ host, cdn.withpersona.com, CBWallet
 host, files.withpersona.com, CBWallet
 host, bridge.withpersona.com, CBWallet
 host, fp-us.withpersona.com, CBWallet
+host, atlas-mainnet.helius-rpc.com, CBWallet
 host, link.daylight.xyz, CBWallet
-host, images.daylight.xyz, CBWallet
+host, img.daylight.xyz, CBWallet
 host-suffix, bridge.xyz, CBWallet
