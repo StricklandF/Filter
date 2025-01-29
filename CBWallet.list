@@ -1,0 +1,32 @@
+## Coinbase Wallet - 2025.01.29
+
+host, www.coinbase.com, CBWallet
+host, as.coinbase.com, CBWallet
+host, api.coinbase.com, CBWallet
+host, sessions.coinbase.com, CBWallet
+host, exceptions.coinbase.com, CBWallet
+host, dynamic-assets.coinbase.com, CBWallet
+host, chain-proxy.wallet.coinbase.com, CBWallet
+host, blockchain.wallet.coinbase.com, CBWallet
+host, sol-mainnet.wallet.coinbase.com, CBWallet
+host, onramp.wallet.coinbase.com, CBWallet
+host, offramp.wallet.coinbase.com, CBWallet
+host, api.wallet.coinbase.com, CBWallet
+host, go.wallet.coinbase.com, CBWallet
+host, ctf-images-01.coinbasecdn.net, CBWallet
+host, wallet-api-production.s3.amazonaws.com, CBWallet
+host-suffix, coinbase.com, CBWallet
+
+# Related domains
+host, api.sprig.com, CBWallet
+host, api3.branch.io, CBWallet
+host, cdn.onramper.com, CBWallet
+host, grpc.production.xmtp.network, CBWallet
+host, t.withpersona.com, CBWallet
+host, cdn.withpersona.com, CBWallet
+host, files.withpersona.com, CBWallet
+host, bridge.withpersona.com, CBWallet
+host, fp-us.withpersona.com, CBWallet
+host, link.daylight.xyz, CBWallet
+host, images.daylight.xyz, CBWallet
+host-suffix, bridge.xyz, CBWallet
