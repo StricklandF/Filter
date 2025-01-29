@@ -1,4 +1,4 @@
-## WhatsApp - 2024.11.07
+## WhatsApp - 2025.01.29
 
 host, g.whatsapp.net, WhatsApp
 host, dit.whatsapp.net, WhatsApp
@@ -33,6 +33,8 @@ host, media-nrt1-1.cdn.whatsapp.net, WhatsApp
 host, media-ams4-1.cdn.whatsapp.net, WhatsApp
 host, media-mxp2-1.cdn.whatsapp.net, WhatsApp
 host, media-lhr6-2.cdn.whatsapp.net, WhatsApp
+host, media-syd2-1.cdn.whatsapp.net, WhatsApp
+host, media-nrt1-2.cdn.whatsapp.net, WhatsApp
 host, www.whatsapp.com, WhatsApp
 host, web.whatsapp.com, WhatsApp
 host, graph.whatsapp.com, WhatsApp
