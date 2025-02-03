@@ -1,4 +1,4 @@
-## Coinbase Wallet - 2025.01.29
+## Coinbase Wallet - 2025.02.03
 
 host, www.coinbase.com, CBWallet
 host, as.coinbase.com, CBWallet
@@ -15,6 +15,7 @@ host, api.wallet.coinbase.com, CBWallet
 host, go.wallet.coinbase.com, CBWallet
 host, ctf-images-01.coinbasecdn.net, CBWallet
 host, wallet-api-production.s3.amazonaws.com, CBWallet
+host, coinbase-west.s3.us-west-2.amazonaws.com, CBWallet
 host-suffix, coinbase.com, CBWallet
 
 # Related domains
@@ -28,6 +29,8 @@ host, files.withpersona.com, CBWallet
 host, bridge.withpersona.com, CBWallet
 host, fp-us.withpersona.com, CBWallet
 host, atlas-mainnet.helius-rpc.com, CBWallet
+host, d392zik6ho62y0.cloudfront.net, CBWallet
+host, d3r81g40ycuhqg.cloudfront.net, CBWallet
 host, link.daylight.xyz, CBWallet
 host, img.daylight.xyz, CBWallet
 host-suffix, bridge.xyz, CBWallet
