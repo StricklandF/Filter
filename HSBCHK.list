@@ -1,4 +1,4 @@
-## HSBC HK - 2024.11.25
+## HSBC HK - 2025.03.14
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
@@ -42,6 +42,7 @@ host, accdn.lpsnmedia.net, HSBCHK
 host, lpcdn.lpsnmedia.net, HSBCHK
 host, tags.tiqcdn.com, HSBCHK
 host, akamai.tiqcdn.com, HSBCHK
+host, visitor-service-ap-east-1.tealiumiq.com, HSBCHK
 host, d0r7clfvf7kyyg4yavsatxjn2fcoifwoazpdhfi7a5e69a916d10d138sac.d.aa.online-metrix.net, HSBCHK
 host, d0r7clfvzbdg6noi6k647mcvxkqetgqalbuemk2u7a007cc227c35229sac.d.aa.online-metrix.net, HSBCHK
 host, messaging.prod.ap-east-1.vam-hk.cloud1.vv1865.com, HSBCHK
