@@ -1,4 +1,4 @@
-## Longbridge - 2024.10.01
+## Longbridge - 2025.03.23
 
 host, ws.lbkrs.com, Longbridge
 host, api.lbkrs.com, Longbridge
@@ -33,10 +33,14 @@ host, pub.lbctrl.com, Longbridge
 host, assets.lbctrl.com, Longbridge
 host, vcdn.lbctrl.com, Longbridge
 host, static.lbctrl.com, Longbridge
+host, event.lbkrs.com, Longbridge
+host, cdn-support.lbctrl.com, Longbridge
+host, performance-data.lbkrs.com, Longbridge
 host, event-tracking.lbctrl.com, Longbridge
 host, tts.pbkrs.com, Longbridge
 host, ub.pbkrs.com, Longbridge
 host, pub.pbkrs.com, Longbridge
+host, vcdn.pbkrs.com, Longbridge
 host, imageproxy.pbkrs.com, Longbridge
 host, assets.wbrks.com, Longbridge
 host, longbridge.app.wbrks.com, Longbridge
@@ -57,6 +61,7 @@ host-keyword, longbridge, Longbridge
 
 # Associated Domains
 host, deepknow.egoid.me, Longbridge
+host, prod-lb-geotest.oss-cn-shenzhen.aliyuncs.com, Longbridge
 host, lb-pspl-rawfile.s3.cn-north-1.amazonaws.com.cn, Longbridge
 host, cognito-identity.ap-southeast-1.amazonaws.com, Longbridge
 host, ar5xmqao2l.execute-api.ap-east-1.amazonaws.com, Longbridge
