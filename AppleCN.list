@@ -1,0 +1,26 @@
+# Apple China Special Domains
+# Credit: Sukka
+# This file contains domains of Apple, Inc that have host service specific for the Mainland China.
+
+host, gs-loc-cn.apple.com, AppleCN
+host, api.smoot.apple.cn, AppleCN
+host-suffix, gspe19-2-cn-ssl.ls-apple.com.akadns.net, AppleCN
+host-suffix, gspe19-cn.ls-apple.com.akadns.net, AppleCN
+host-suffix, cdn-cn4.apple-mapkit.com, AppleCN
+host-suffix, cdn-cn3.apple-mapkit.com, AppleCN
+host-suffix, cdn-cn2.apple-mapkit.com, AppleCN
+host-suffix, cdn-cn1.apple-mapkit.com, AppleCN
+host-suffix, gsp85-cn-ssl.ls.apple.com, AppleCN
+host-suffix, gspe19-cn-ssl.ls.apple.com, AppleCN
+host-suffix, gspe21-cn-ssl.ls.apple.com, AppleCN
+host-suffix, gspe79-cn-ssl.ls.apple.com, AppleCN
+host-suffix, cn-ssl.ls.apple.com, AppleCN
+host-suffix, gspe19-cn.ls.apple.com, AppleCN
+host-suffix, gsp13-cn.ls.apple.com, AppleCN
+host-suffix, gsp12-cn.ls.apple.com, AppleCN
+host-suffix, gsp5-cn.ls.apple.com, AppleCN
+host-suffix, gsp4-cn.ls.apple.com, AppleCN
+host-suffix, cn.ls.apple.com, AppleCN
+host-suffix, cn.apple.com, AppleCN
+host-suffix, icloud.com.cn, AppleCN
+host-suffix, apple.com.cn, AppleCN
