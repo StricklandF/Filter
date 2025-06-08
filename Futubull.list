@@ -1,4 +1,4 @@
-## Futubull - 2024.09.28
+## Futubull - 2025.06.08
 
 host, www.futuhk.com, Futubull
 host, api.futunn.com, Futubull
@@ -35,6 +35,8 @@ host, passport.futunn.com, Futubull
 host, plb.futunn.com, Futubull
 host, j.futunn.com, Futubull
 host, w5.futunn.com, Futubull
+host, qquote.futunn.com, Futubull
+host, chat-ai.futunn.com, Futubull
 host, emoticon.futunn.com, Futubull
 host, cdn-img-wealth.futunn.com, Futubull
 host, industry-chain-img.futunn.com, Futubull
@@ -90,6 +92,7 @@ ip-cidr, 43.129.2.97/32, Futubull
 ip-cidr, 43.132.106.6/32, Futubull
 ip-cidr, 43.132.107.102/32, Futubull
 ip-cidr, 129.226.79.239/32, Futubull
+ip-cidr, 129.226.111.140/32, Futubull
 ip-cidr, 119.28.37.77/32, Futubull
 ip-cidr, 119.28.37.206/32, Futubull
 ip-cidr, 119.28.183.55/32, Futubull
