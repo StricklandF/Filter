@@ -1,4 +1,15 @@
-## Crypto - 2025.05.18
+## Crypto - 2025.06.21
+
+
+host-suffix, onekey.so, Crypto
+host-suffix, onekeycn.com, Crypto
+host-suffix, onekey-asset.com, Crypto
+host-suffix, bn-alpha.site, Crypto
+
+host-suffix, gmgn.mobi, Crypto
+host, gmgn.gracematrix.net, Crypto
+host, ws.gmgn.mobi, Crypto
+host-suffix, gmgn.ai, Crypto
 
 host-suffix, infini.money, Crypto
 host-suffix, vitalik.eth.limo, Crypto
