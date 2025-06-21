@@ -1,4 +1,4 @@
-## Futubull - 2025.06.08
+## Futubull - 2025.06.21
 
 host, www.futuhk.com, Futubull
 host, api.futunn.com, Futubull
@@ -12,8 +12,10 @@ host, dedog-server-sec.futunn.com, Futubull
 host, dedog-server.futunn.com, Futubull
 host, stock-resource.futunn.com, Futubull
 host, cdnquote.futunn.com, Futubull
+host, cdn-quote.futunn.com, Futubull
 host, collect.futunn.com, Futubull
 host, report.futunn.com, Futubull
+host, nps.futunn.com, Futubull
 host, dedog-report.futunn.com, Futubull
 host, fegostatic.futunn.com, Futubull
 host, foss-nn-hk.futunn.com, Futubull
@@ -73,6 +75,7 @@ host-keyword, futunn, Futubull
 
 # SG IP
 ip-cidr, 43.132.12.114/32, Futubull
+ip-cidr, 43.153.233.58/32, Futubull
 ip-cidr, 43.153.233.166/32, Futubull
 ip-cidr, 43.153.233.181/32, Futubull
 ip-cidr, 43.153.233.212/32, Futubull
@@ -91,6 +94,7 @@ ip-cidr, 170.106.48.217/32, Futubull
 ip-cidr, 43.129.2.97/32, Futubull
 ip-cidr, 43.132.106.6/32, Futubull
 ip-cidr, 43.132.107.102/32, Futubull
+ip-cidr, 43.135.82.18/32, Futubull
 ip-cidr, 129.226.79.239/32, Futubull
 ip-cidr, 129.226.111.140/32, Futubull
 ip-cidr, 119.28.37.77/32, Futubull
