@@ -1,6 +1,7 @@
-## WhatsApp - 2025.01.29
+## WhatsApp - 2025.06.21
 
 host, g.whatsapp.net, WhatsApp
+host, v.whatsapp.net, WhatsApp
 host, dit.whatsapp.net, WhatsApp
 host, static.whatsapp.net, WhatsApp
 host, scontent.whatsapp.net, WhatsApp
@@ -39,6 +40,7 @@ host, www.whatsapp.com, WhatsApp
 host, web.whatsapp.com, WhatsApp
 host, graph.whatsapp.com, WhatsApp
 host, graph.facebook.com, WhatsApp
+
 host-suffix, bintray.com, WhatsApp
 host-suffix, wa.me, WhatsApp
 host-suffix, whatsapp-plus.info, WhatsApp
@@ -54,6 +56,7 @@ host-suffix, whatsapp.org, WhatsApp
 host-suffix, whatsapp.tv, WhatsApp
 host-suffix, whatsappbrand.com, WhatsApp
 host-keyword, whatsapp, WhatsApp
+
 ip-cidr, 158.85.224.160/27, WhatsApp
 ip-cidr, 158.85.46.128/27, WhatsApp
 ip-cidr, 158.85.5.192/27, WhatsApp
