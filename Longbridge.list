@@ -1,4 +1,4 @@
-## Longbridge - 2025.03.23
+## Longbridge - 2025.06.21
 
 host, ws.lbkrs.com, Longbridge
 host, api.lbkrs.com, Longbridge
@@ -11,6 +11,7 @@ host, vcdn.lbkrs.com, Longbridge
 host, quote.lbkrs.com, Longbridge
 host, static.lbkrs.com, Longbridge
 host, assets.lbkrs.com, Longbridge
+host, activity.lbkrs.com, Longbridge
 host, geotest.lbkrs.com, Longbridge
 host, imageproxy.lbkrs.com, Longbridge
 host, cdn-support.lbkrs.com, Longbridge
