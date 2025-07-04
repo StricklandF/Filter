@@ -1,0 +1,33 @@
+## IBKR - 2025.07.04
+
+# 盈透证券 IBKR 核心服务
+host, api.ibkr.com, IBKR
+host, tws.ibllc.com, IBKR
+host, www.interactivebrokers.com, IBKR
+host, ndcdyn.interactivebrokers.com, IBKR
+host-suffix, ibkr.com, IBKR
+host-suffix, ibllc.com, IBKR
+host-suffix, interactivebrokers.com, IBKR
+
+host, api.ibkr.com, IBKR
+host, cdn.ibkr.com, IBKR
+host, secure.ibkr.com, IBKR
+host, nexus.interactivebrokers.com, IBKR
+host, ibg-api.interactivebrokers.com, IBKR
+
+# 登录/交易系统相关
+host, sdc1.ibllc.com, IBKR
+host, clearing.ibkr.com, IBKR
+host, pdf.ibkr.com, IBKR
+host, paper.ibkr.com, IBKR
+host, push.ibkr.com, IBKR
+host, www.interactivebrokers.com, IBKR
+host, gdcdyn.interactivebrokers.com, IBKR
+
+# Zacks 财经图表/分析平台
+host, staticx-tuner.zacks.com, IBKR
+host-suffix, zacks.com, IBKR
+
+# Akamai mPulse 性能统计服务（可选设为 REJECT 或 DIRECT）
+host, c.go-mpulse.net, IBKR
+host-suffix, go-mpulse.net, IBKR
