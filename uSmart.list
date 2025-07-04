@@ -1,4 +1,4 @@
-## uSMART (HK & SG) - 2024.08.05
+## uSMART (HK & SG) - 2025.07.04
 
 # HK
 host, www.usmart.hk, uSmart
@@ -7,6 +7,7 @@ host, jy.yxzq.com, uSmart
 host, sc.yxzq.com, uSmart
 host, wj.yxzq.com, uSmart
 host, m.yxzq.com, uSmart
+host, m.usmart66.com, uSmart
 host, web-prd-1257884527.cos.ap-guangzhou.myqcloud.com, uSmart
 host, web-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
 host, web-static-prd-hongkong-1257884527.cos.ap-hongkong.myqcloud.com, uSmart
