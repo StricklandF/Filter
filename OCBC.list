@@ -1,4 +1,4 @@
-# OCBC SG - 2024.02.04
+# OCBC SG - 2025.08.11
 
 host, www.ocbc.com, OCBC
 host, internet.ocbc.com, OCBC
@@ -16,4 +16,6 @@ host, ocbc.demdex.net, OCBC
 host, dpm.demdex.net, OCBC
 host, ocbc.data.adobedc.net, OCBC
 host, assets.adobedtm.com, OCBC
+host, baldeagle.ocbc.com, OCBC
+host, ocbcstack-prd-cdn.ascentismedia.com, OCBC
 host-suffix, ocbc.com, OCBC
