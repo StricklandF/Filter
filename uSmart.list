@@ -1,4 +1,4 @@
-## uSMART (HK & SG) - 2025.07.04
+## uSMART (HK & SG) - 2025.09.13
 
 # HK
 host, www.usmart.hk, uSmart
@@ -27,10 +27,11 @@ ip-cidr, 120.77.150.199/32, uSmart
 
 # SG
 host, www.usmart.sg, uSmart
+host, m.usmartsg.com, uSmart
 host, sc.usmartsg.com, uSmart
 host, jy.usmartsg.com, uSmart
 host, hz.usmartsg.com, uSmart
-host, m.usmartsg.com, uSmart
+host, hq.usmartsg.com, uSmart
 host, usmartglobal.zendesk.com, uSmart
 host, jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com, uSmart
 host-suffix, usmartsg.com, uSmart
@@ -40,3 +41,4 @@ host-suffix, usmartgroup.com, uSmart
 host-keyword, usmart, uSmart
 ip-cidr, 47.107.247.183/32, uSmart
 ip-cidr, 47.242.214.131/32, uSmart
+ip-cidr, 47.242.186.255/32, uSmart
