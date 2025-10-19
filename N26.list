@@ -1,4 +1,4 @@
-## N26 - 2025.01.21
+## N26 - 2025.10.19
 
 host, app.n26.com, N26
 host, api.tech26.de, N26
@@ -9,6 +9,7 @@ host, support.n26.com, N26
 host, cdn.number26.de, N26
 host, n26-eu.c2nwa3.net, N26
 host, 3ds-challenge.n26.com, N26
+host, n26.kontenwechsel.de, N26
 host, m-n26.kontenwechsel.de, N26
 host, n26-privacy.my.onetrust.com, N26
 host, n26-admedia.s3.eu-central-1.amazonaws.com, N26
