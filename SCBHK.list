@@ -1,4 +1,4 @@
-## Standard Chartered Bank HK - 2024.09.13
+## Standard Chartered Bank HK - 2025.10.26
 
 host, www.sc.com, SCBHK
 host, retail.sc.com, SCBHK
@@ -7,6 +7,7 @@ host, av.sc.com, SCBHK
 host, ob.sc.com, SCBHK
 host, wealth.sc.com, SCBHK
 host, research.sc.com, SCBHK
+host, smetrics.sc.com, SCBHK
 host, origination.sc.com, SCBHK
 host, standchartbank.tt.omtrdc.net, SCBHK
 host, standchartbank.sc.omtrdc.net, SCBHK
