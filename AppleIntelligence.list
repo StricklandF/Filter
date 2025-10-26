@@ -1,0 +1,11 @@
+## Apple-Intelligence - 2025.10.26
+
+host-suffix, apple-relay.apple.com, proxy
+host-suffix, apple-relay.fastly-edge.com, proxy
+host-suffix, apple-relay.cloudflare.com, proxy
+host-suffix, cp4.cloudflare.com, proxy
+host-suffix, guzzoni.apple.com, proxy
+host-suffix, smoot.apple.com, proxy
+host-keyword, apple-relay, proxy
+
+;host-suffix, gspe1-ssl.ls.apple.com, proxy
