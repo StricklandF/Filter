@@ -1,0 +1,38 @@
+## Claude AI (Anthropic) - 2026.03.01
+
+
+host, api.claude.ai, Claude
+host, assets.claude.ai, Claude
+host, a-api.anthropic.com, Claude
+host, a-cdn.anthropic.com, Claude
+host, cdn.claude.ai, Claude
+host, events.claude.ai, Claude
+host, api.claude.com, Claude
+host, api.anthropic.com, Claude
+host, console.anthropic.com, Claude
+host, docs.anthropic.com, Claude
+host, status.anthropic.com, Claude
+host, cdn.anthropic.com, Claude
+host, trust.anthropic.com, Claude
+host, legal.anthropic.com, Claude
+host, docs.anthropic.com, Claude
+host, assets.anthropic.com, Claude
+host, privacy.anthropic.com, Claude
+host, console.anthropic.com, Claude
+host, developer.anthropic.com, Claude
+host, resources.anthropic.com, Claude
+host, developer.anthropic.com, Claude
+host, api3.siftscience.com, Claude
+;host, o1158394.ingest.us.sentry.io, Claude
+
+host-suffix, claude.ai, Claude
+host-suffix, claude.com, Claude
+host-suffix, claude.io, Claude
+host-suffix, claude.site, Claude
+host-suffix, anthropic.com, Claude
+host-suffix, anthropicstatus.com, Claude
+host-suffix, claudeusercontent.com, Claude
+
+
+
+
