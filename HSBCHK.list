@@ -1,4 +1,4 @@
-## HSBC HK - 2025.03.14
+## HSBC HK - 2026.04.16
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
@@ -30,6 +30,10 @@ host, sy.v.liveperson.net, HSBCHK
 host, sy.msghist.liveperson.net, HSBCHK
 host, lptag.liveperson.net, HSBCHK
 host, adminlogin.liveperson.net, HSBCHK
+host, ause1.idp.liveperson.net, HSBCHK
+host, ause1.msg.liveperson.net, HSBCHK
+host, ause1.msghist.liveperson.net, HSBCHK
+host, ause1.pusher.liveperson.net, HSBCHK
 host, log-58144bf0.we-stats.com, HSBCHK
 host, collect-ap-east-1.tealiumiq.com, HSBCHK
 host, mobile.eum-appdynamics.com, HSBCHK
@@ -40,6 +44,7 @@ host, h64.online-metrix.net, HSBCHK
 host, h-sdk.online-metrix.net, HSBCHK
 host, accdn.lpsnmedia.net, HSBCHK
 host, lpcdn.lpsnmedia.net, HSBCHK
+host, lpcdn-vip.lpsnmedia.net, HSBCHK
 host, tags.tiqcdn.com, HSBCHK
 host, akamai.tiqcdn.com, HSBCHK
 host, visitor-service-ap-east-1.tealiumiq.com, HSBCHK
