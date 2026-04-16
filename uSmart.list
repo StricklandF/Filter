@@ -1,4 +1,4 @@
-## uSMART (HK & SG) - 2025.09.13
+## uSMART (HK & SG) - 2026.04.16
 
 # HK
 host, www.usmart.hk, uSmart
@@ -33,6 +33,9 @@ host, jy.usmartsg.com, uSmart
 host, hz.usmartsg.com, uSmart
 host, hq.usmartsg.com, uSmart
 host, usmartglobal.zendesk.com, uSmart
+host, usmart.udeskglobal.com, uSmart
+host, assets-cli.udeskglobal.com, uSmart
+host, web-static-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com, uSmart
 host, jy-common-sg-prd-singapore-1257884527.cos.ap-singapore.myqcloud.com, uSmart
 host-suffix, usmartsg.com, uSmart
 host-suffix, usmart.sg, uSmart
