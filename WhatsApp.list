@@ -1,8 +1,9 @@
-## WhatsApp - 2025.10.26
+## WhatsApp - 2026.04.16
 
 host, g.whatsapp.net, WhatsApp
 host, v.whatsapp.net, WhatsApp
 host, dit.whatsapp.net, WhatsApp
+host, api.whatsapp.net, WhatsApp
 host, static.whatsapp.net, WhatsApp
 host, graph.whatsapp.net, WhatsApp
 host, scontent.whatsapp.net, WhatsApp
