@@ -1,0 +1,42 @@
+## Charles Schwab - 2026.06.07
+
+host, www.schwab.com, Schwab
+host, www.schwab.co.uk, Schwab
+host, www.schwab.com.hk, Schwab
+host, www.schwab.com.sg, Schwab
+host, international.schwab.com, Schwab
+host, client.schwab.com, Schwab
+host, comply.schwab.com, Schwab
+host, onboard.schwab.com, Schwab
+host, thinkorswim-mobile-lb.schwab.com, Schwab
+host, thinkorswim-mobile-config.schwab.com, Schwab
+host, trade.thinkorswim.com, Schwab
+host, papermoney-mobile.schwab.com, Schwab
+host, sws-gateway-nr.schwab.com, Schwab
+host, transmitdrs.schwab.com, Schwab
+host, educationcontent.schwab.com, Schwab
+host, jfk2-mobile-api-gateway.schwab.com, Schwab
+host, transmitdrs.schwab.com, Schwab
+host, count.schwab.com, Schwab
+host, streamer-mobile.schwab.com, Schwab
+host, contentdelivery.schwab.com, Schwab
+host, lms-mgmt.schwab.com, Schwab
+host, smetric.schwab.com, Schwab
+host, eum-appd.schwab.com, Schwab
+host-suffix, schwab.com, Schwab
+host-suffix, schwab.co.uk, Schwab
+host-suffix, schwab.com.hk, Schwab
+host-suffix, schwab.com.sg, Schwab
+host-suffix, international.schwab.com, Schwab
+host-suffix, thinkorswim.com, Schwab
+host-keyword, schwab, Schwab
+host-keyword, thinkorswim, Schwab
+
+# Other Related Domains
+host, cdn.appdynamics.com, Schwab
+host, www.glance.net, Schwab
+host, p0021-1-s.glance.net, Schwab
+host, p0008-2-s.glance.net, Schwab
+host, p0008-3-s.glance.net, Schwab
+host, presence.glance.net, Schwab
+host, www.trefis.com, Schwab
