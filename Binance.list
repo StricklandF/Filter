@@ -1,4 +1,4 @@
-## Binance - 2025.01.27
+## Binance - 2026.07.22
 
 host, www.binance.com, Binance
 host, api.binance.com, Binance
@@ -100,6 +100,7 @@ host-suffix, yingwangtech.net, Binance
 host-suffix, yingwangtech.mobi, Binance
 host-suffix, yingwangtech.club, Binance
 host-suffix, yingwangtech.cc, Binance
+host-suffix, bscdnweb.com, Binance
 
 ip-cidr, 47.107.98.27/32, Binance
 ip-cidr, 47.107.127.135/32, Binance
