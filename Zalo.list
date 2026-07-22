@@ -1,4 +1,4 @@
-## Zalo - 2024.08.24
+## Zalo - 2026.07.22
 
 host, zalo, Zalo
 host, setting.api.zaloapp.com, Zalo
@@ -45,6 +45,9 @@ host, mcloud-hls-pl-12-zfeed-video-aka.zdn.vn, Zalo
 host, mcloud-whls-ch-12-zfeed-video-aka.zdn.vn, Zalo
 host, zfeed-video-mcloud-mpl-s12.zadn.vn, Zalo
 host, zfeed-video-mcloud-whch-s12-te-vnso-tt-3.zadn.vn, Zalo
+host, photo.talk.zing.vn, Zalo
+host, photo-stal-15.zdn.vn, Zalo
+host, video-stal-45.dlmd.me, Zalo
 
 host-suffix, zaloapp.com, Zalo
 host-suffix, zadn.vn, Zalo
