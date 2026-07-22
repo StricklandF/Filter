@@ -1,4 +1,4 @@
-## HSBC HK - 2026.04.16
+## HSBC HK - 2026.07.22
 
 host, www.hsbc.com.hk, HSBCHK
 host, www.isstprod.hsbc.com.hk, HSBCHK
@@ -22,6 +22,7 @@ host, investments4.personal-banking.hsbc.com.hk, HSBCHK
 host, webtrack-brickstreetconnect-ao-prd.hsbc.com.hk, HSBCHK
 host, pki.hsbc.com, HSBCHK
 host, hsbchk.jrni.com, HSBCHK
+host, hsbc.edge.sdk.awswaf.com, HSBCHK
 host, pkicrl-internal.it.global.hsbc, HSBCHK
 host, sy.push.liveperson.net, HSBCHK
 host, sy.idp.liveperson.net, HSBCHK
@@ -59,4 +60,3 @@ host-suffix, hsbc.com.hk, HSBCHK
 host-suffix, hsbc.com, HSBCHK
 host-suffix, global.hsbc, HSBCHK
 host-keyword, hsbchk, HSBCHK
-
