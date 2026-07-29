@@ -1,4 +1,4 @@
-## Charles Schwab - 2026.06.07
+## Charles Schwab - 2026.06.29
 
 host, www.schwab.com, Schwab
 host, www.schwab.co.uk, Schwab
@@ -23,6 +23,11 @@ host, contentdelivery.schwab.com, Schwab
 host, lms-mgmt.schwab.com, Schwab
 host, smetric.schwab.com, Schwab
 host, eum-appd.schwab.com, Schwab
+host, fonts.schwab.com, Schwab
+host, alto-spa.schwab.com, Schwab
+host, streamer.schwab.com, Schwab
+host, ausgateway.schwab.com, Schwab
+host, wire-transfers-spa.schwab.com, Schwab
 host-suffix, schwab.com, Schwab
 host-suffix, schwab.co.uk, Schwab
 host-suffix, schwab.com.hk, Schwab
@@ -35,8 +40,11 @@ host-keyword, thinkorswim, Schwab
 # Other Related Domains
 host, cdn.appdynamics.com, Schwab
 host, www.glance.net, Schwab
-host, p0021-1-s.glance.net, Schwab
 host, p0008-2-s.glance.net, Schwab
 host, p0008-3-s.glance.net, Schwab
+host, p0021-1-s.glance.net, Schwab
+host, p0018-1.glance.net, Schwab
+host, p0021-1.glance.net, Schwab
 host, presence.glance.net, Schwab
+host, www.glancecdn.net, Schwab
 host, www.trefis.com, Schwab
