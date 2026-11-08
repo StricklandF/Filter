@@ -1,0 +1,19 @@
+## East West Bank - 2026.11.08
+
+host, www.eastwestbank.com, EWB 
+host, digital.eastwestbank.com, EWB
+host, ttarget.eastwestbank.com, EWB
+host, emetrics.eastwestbank.com, EWB
+host, online.eastwestbank.com, EWB
+host, zellepayments.eastwestbank.com, EWB
+host, eastwestbank.demdex.net, EWB
+host, eastwestbank.sc.omtrdc.net, EWB
+host, mpp.velobank.com, EWB
+host, mppui.velobank.com, EWB
+host, cm.everesttech.net, EWB
+host, nexus.ensighten.com, EWB
+
+host-suffix, eastwestbank.com, EWB 
+host-suffix, velobank.com, EWB
+host-keyword, eastwestbank, EWB
+
