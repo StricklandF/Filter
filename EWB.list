@@ -1,4 +1,4 @@
-## East West Bank - 2026.11.08
+## East West Bank - 2026.11.15
 
 host, www.eastwestbank.com, EWB 
 host, digital.eastwestbank.com, EWB
@@ -12,8 +12,8 @@ host, mpp.velobank.com, EWB
 host, mppui.velobank.com, EWB
 host, cm.everesttech.net, EWB
 host, nexus.ensighten.com, EWB
+host, epayments-epaystatic-e.money-movement.com, EWB
 
 host-suffix, eastwestbank.com, EWB 
 host-suffix, velobank.com, EWB
 host-keyword, eastwestbank, EWB
-
