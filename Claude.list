@@ -1,13 +1,13 @@
-## Claude AI (Anthropic) - 2026.03.01
+## Claude AI (Anthropic) - 2026.11.21
 
 host, api.claude.ai, Claude
 host, assets.claude.ai, Claude
-host, a-api.anthropic.com, Claude
-host, a-cdn.anthropic.com, Claude
 host, cdn.claude.ai, Claude
 host, events.claude.ai, Claude
 host, api.claude.com, Claude
 host, api.anthropic.com, Claude
+host, a-api.anthropic.com, Claude
+host, a-cdn.anthropic.com, Claude
 host, console.anthropic.com, Claude
 host, docs.anthropic.com, Claude
 host, status.anthropic.com, Claude
@@ -21,17 +21,50 @@ host, console.anthropic.com, Claude
 host, developer.anthropic.com, Claude
 host, resources.anthropic.com, Claude
 host, developer.anthropic.com, Claude
-host, api3.siftscience.com, Claude
-;host, o1158394.ingest.us.sentry.io, Claude
+host, anthropic.com.cdn.cloudflare.net, Claude
+host, servd-anthropic-website.b-cdn.net, Claude
 
+host-suffix, clau.de, Claude
 host-suffix, claude.ai, Claude
 host-suffix, claude.com, Claude
 host-suffix, claude.io, Claude
 host-suffix, claude.site, Claude
+host-suffix, claude.app, Claude
+host-suffix, claudemcpclient.com, Claude
+host-suffix, claudemcpcontent.com, Claude
 host-suffix, anthropic.com, Claude
+host-suffix, anthropic.auth0.com, Claude
 host-suffix, anthropicstatus.com, Claude
 host-suffix, claudeusercontent.com, Claude
+host-suffix, anthropic-com.ghost.io, Claude
+host-keyword, claude, Claude
+host-keyword, anthropic, Claude
 
+ip-asn, AS399358, Claude
+ip6-cidr, 2607:6bc0::/32, Claude
+ip-cidr, 34.8.0.0/16, Claude
+ip-cidr, 160.79.104.0/21, Claude
 
+# 3rd-Party & Related Domains
+host, o1158394.ingest.us.sentry.io, Claude
+host-suffix, sentry.io, Claude
+host-suffix, statsigapi.net, Claude
+host-suffix, siftscience.com, Claude
+host-suffix, us5.datadoghq.com, Claude
+host-suffix, browser-intake-us5-datadoghq.com, Claude
+host-keyword, sift, Claude
+host-keyword, sentry, Claude
+host-keyword, datadog, Claude
 
+host, api-iam.intercom.io, Claude
+host, nexus-websocket-a.intercom.io, Claude
+host-suffix, intercom.io, Claude
+host-suffix, intercomcdn.com, Claude
+host-suffix, cdn.usefathom.com, Claude
+;host-suffix, r.stripe.com, Claude
 
+# KYC (it's better to be aligned with other filters)
+host-suffix, withpersona.com, Claude
+host-suffix, frompersona.com, Claude
+host-suffix, maps.googleapis.com, Claude
+;host-suffix, fcmtoken.googleapis.com, Claude
