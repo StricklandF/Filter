@@ -45,6 +45,9 @@ ip6-cidr, 2607:6bc0::/32, Claude
 ip-cidr, 34.8.0.0/16, Claude
 ip-cidr, 160.79.104.0/21, Claude
 
+# Claude Telemetry Domain
+host, a.nel.cloudflare.com, Claude
+
 # 3rd-Party & Related Domains
 host, o1158394.ingest.us.sentry.io, Claude
 host-suffix, sentry.io, Claude
