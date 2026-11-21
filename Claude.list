@@ -40,7 +40,7 @@ host-suffix, anthropic-com.ghost.io, Claude
 host-keyword, claude, Claude
 host-keyword, anthropic, Claude
 
-ip-asn, AS399358, Claude
+ip-asn, 399358, Claude
 ip6-cidr, 2607:6bc0::/32, Claude
 ip-cidr, 34.8.0.0/16, Claude
 ip-cidr, 160.79.104.0/21, Claude
