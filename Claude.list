@@ -1,4 +1,4 @@
-## Claude AI (Anthropic) - 2026.11.21
+## Claude AI (Anthropic) - 2026.11.22
 
 host, api.claude.ai, Claude
 host, assets.claude.ai, Claude
@@ -54,6 +54,7 @@ host-suffix, sentry.io, Claude
 host-suffix, statsigapi.net, Claude
 host-suffix, siftscience.com, Claude
 host-suffix, us5.datadoghq.com, Claude
+host-suffix, datadog.pool.ntp.org, Claude
 host-suffix, browser-intake-us5-datadoghq.com, Claude
 host-keyword, sift, Claude
 host-keyword, sentry, Claude
